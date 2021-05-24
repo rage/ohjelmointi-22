@@ -496,7 +496,7 @@ Anna lukuja:
 **2**
 **-1**
 Summa: 13
-Keskiarvo: 4.5
+Keskiarvo: 3.25
 
 </sample-output>
 
