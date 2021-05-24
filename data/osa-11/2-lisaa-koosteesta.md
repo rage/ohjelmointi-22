@@ -160,7 +160,7 @@ Suo kuokka ja python hieno yhdistelmä
 
 Joskus omia olioita on näppärä käsitellä tai muodostaa koosteiden avulla. Tarkastellaan seuraavaksi muutamaa esimerkkiä tähän liittyen.
 
-Ensimmäisessä esimerkissä luokka Maa mallintaa yhtää maata asukaslukuineen. Koosteessa poimitaan listalta kaikkien sellaisten maiden nimet, joiden asukasluku on suurempi kuin 5 miljoonaa.
+Ensimmäisessä esimerkissä luokka Maa mallintaa yhtä maata asukaslukuineen. Koosteessa poimitaan listalta kaikkien sellaisten maiden nimet, joiden asukasluku on suurempi kuin 5 miljoonaa.
 
 ```python
 
