@@ -15,8 +15,12 @@ Zoom on viestintäsovellus, josta saat lisätietoa [täältä](https://helpdesk.
 
 Tiistain zoom-huone: https://helsinki.zoom.us/j/61009637483
 
+Zoomissa voi kysyä joko mikin kautta ääneen tai kirjoittamalla.
+
 ## Telegram
 
 Telegram on viestintäsovellus, josta saat lisätietoa [täältä](https://telegram.org/).
 
 Löydät kurssin telegram-kanavan [täältä](https://t.me/python_hy).
+
+Ohjausaikana ohjaaja päivystävää kurssikanavalla ja vastaa myös yksityisviesteihin. Kanavalla käydään keskustelua kurssista myös ohjausaikojen ulkopuolella, joten sinne kannattaa liittyä!
