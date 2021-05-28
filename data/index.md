@@ -35,7 +35,7 @@ Käytä ensisijaisesti viestintävälineenä Telegramia. Kurssin opettajiin voit
 
 ## Aikataulu
 
-Kurssi on auki vuoden 2021 loppuun asti. Tehtäviä voi tehdä omaan tahtiin. Kaikkien osien tehtävät ovat tehtävissä heti.
+Kurssi on auki vuoden 2021 loppuun asti. Tehtäviä voi tehdä omaan tahtiin.
 
 ## Luentotallenteet
 
