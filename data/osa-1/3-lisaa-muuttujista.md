@@ -61,7 +61,7 @@ Pekka Pythonen
 
 Tässä tapauksessa muuttujan arvo ei tule käyttäjältä vaan se on sama ohjelman jokaisella suorituskerralla.
 
-## Muuttujien arvon muuttaminen
+## Muuttujan arvon muuttaminen
 
 Muuttujan arvo voi nimensä mukaisesti muuttua. Niin kuin edellisessä osassa todettiin, uusi arvo ylikirjoittaa vanhan arvon.
 
@@ -113,11 +113,11 @@ testi!!!
 * Muuttujat kannattaa nimetä niiden käyttötarkoituksen mukaan.
   Esimerkiksi jos muuttujassa on sana, nimi `sana` on parempi kuin `a`.
 
-* Python ei rajoita muuttujien nimien pituutta, mutta eräitä muita sääntöjä muuttujien nimiin liittyy. Nimen täytyy _alkaa kirjaimella_ ja se saa sisältää vain kirjaimia, numeroita ja alaviivoja &#95;.
+* Python ei rajoita muuttujien nimien pituutta, mutta eräitä muita sääntöjä muuttujien nimiin liittyy. Nimen täytyy alkaa kirjaimella ja se saa sisältää vain kirjaimia, numeroita ja alaviivoja &#95;.
 
 * Huomaa myös, että pienet ja isot kirjaimet ovat eri merkkejä. Muuttuja `nimi` on siis eri muuttuja kuin `Nimi` tai `NIMI`.
 
-* Pythonissa muuttujien nimet on tapana kirjoittaa pienillä kirjaimilla.
+* Pythonissa muuttujien nimet on tapana kirjoittaa pienillä kirjaimilla. Jos nimessä on useita sanoja, niiden välissä on alaviiva.
 
 </text-box>
 
@@ -132,7 +132,7 @@ ika = 24
 print(ika)
 ```
 
-Ohjelma tulostaa arvon
+Ohjelman tulostus on seuraava:
 
 <sample-output>
 
@@ -231,7 +231,7 @@ Huomaa, että tässä tapauksessa arvojen väliin ilmestyy automaattisesti yksi 
 
 ## Tulostaminen f-merkkijonojen avulla
 
-Niin sanotut _f-merkkijonot_ tarjoavat kolmannen ja edellisiä joustavamman ja jopa helppokäyttöisemmän tavan tulostuksen muotoiluun.
+Niin sanotut _f-merkkijonot_ tarjoavat kolmannen edellisiä joustavamman ja jopa helppokäyttöisemmän tavan tulostuksen muotoiluun.
 
 Aiempi tekstin ja kokonaisluvun tulostava esimerkki tehtäisiin f-merkkijonojen avulla seuraavasti:
 
@@ -240,7 +240,7 @@ tulos = 10 * 25
 print(f"Tulos on {tulos}")
 ```
 
-Tulostettavan merkkijonon alussa on kirjain _f_, joka tarkoittaa, että kyseessä on f-merkkijono. Merkkijonon sisälle on sijoitettu aaltosuluissa muuttuja _tulos_, jonka arvo tulee tulostuvan merkkijonon osaksi. Tulostus on täsmälleen sama kuin aiemmissa esimerkeissä eli
+Tulostettavan merkkijonon alussa on kirjain _f_, joka tarkoittaa, että kyseessä on f-merkkijono. Merkkijonon sisälle on sijoitettu aaltosuluissa muuttuja `tulos`, jonka arvo tulee tulostuvan merkkijonon osaksi. Tulostus on täsmälleen sama kuin aiemmissa esimerkeissä eli
 
 <sample-output>
 
@@ -265,7 +265,7 @@ Hei Arto, olet 39-vuotias. Asuinpaikkasi on Espoo.
 
 </sample-output>
 
-Huomaa, että täsmälleen tämän esimerkin kaltaista tulostusta on mahdotointa saada aikaan käyttämällä _print_-komennossa pilkkua:
+Huomaa, että täsmälleen tämän esimerkin kaltaista tulostusta on mahdotonta saada aikaan käyttämällä `print`-komennossa pilkkua:
 
 ```python
 nimi = "Arto"
@@ -284,7 +284,7 @@ Hei Arto , olet 39 -vuotias. Asuinpaikkasi on Espoo .
 
 Tulostuksessa on nyt välilyönti jokaisen erillisen osan välissä ja muutamassa kohdassa se aiheuttaa ongelman.
 
-Vaikka pilkullinen muoto _print_-komennosta on joskus kätevä, aiheuttaa se välillä harmaita hiuksia ja silloin on parempi käyttää f-merkkijonoja. Osassa 4 opimme lisää f-merkkijonojen käteviä ominaisuuksia tulosteen muotoilussa.
+Vaikka pilkullinen muoto `print`-komennosta on joskus kätevä, se aiheuttaa välillä harmaita hiuksia ja silloin on parempi käyttää f-merkkijonoja. Osassa 4 opimme lisää f-merkkijonojen käteviä ominaisuuksia tulosteen muotoilussa.
 
 <in-browser-programming-exercise name="Välilyönnillä vai ilman" tmcname="osa01-10b_valilyonnilla_vai_ilman" height=400px>
 
@@ -327,13 +327,13 @@ haen työtä, josta maksetaan palkkaa 2000-3000 euroa kuussa
 
 </sample-output>
 
-Koodi tulostaa melkein oikein, mutta ei kuitenkaan ihan. Tässä tehtävässä on todella tarkat testit, jotka vaativat, että tulostus on välilyönnilleen oikein.
+Koodi toimii melkein oikein, mutta ei kuitenkaan ihan. Tässä tehtävässä on todella tarkat testit, jotka vaativat, että tulostus on välilyönnilleen oikein.
 
 Korjaa siis koodi siten, että tulostus näyttää oikealta. Huomaa, että erityisesti `print`-komennon muoto, jossa tulostettavat osat eritellään pilkulla, voi tuottaa yllätyksiä, sillä se lisää osien väliin välilyönnin.
 
 Helpoiten saat muutettua koodin toimivaksi käyttämällä tulostukseen f-merkkijonoja.
 
-Vihje: saat tulostettua tyhjän rivin komennolla `print` tai lisäämällä tulostettavaan merkkijonoon merkin `\n`.
+Vihje: saat tulostettua tyhjän rivin komennolla `print` tai lisäämällä tulostettavaan merkkijonoon merkinnän `\n`.
 
 Muista olla tarkkana tulostusten muodon suhteen jatkossakin kurssin tehtävissä. Osassa tehtävissä testit vaativat täsmälleen esimerkkitulostusten mukaisen muotoilun.
 
@@ -341,7 +341,7 @@ Muista olla tarkkana tulostusten muodon suhteen jatkossakin kurssin tehtävissä
 
 ## Liukuluvut
 
-`Liukuluku` on ohjelmoinnissa esiintyvä termi, joka tarkoittaa käytännössä desimaalilukua. Liukulukuja voidaan käyttää melko samalla tavalla kuin kokonaislukuja. Huomaa, että desimaalierottimena käytetään pistettä (kuten englannissa yleensä).
+`Liukuluku` on ohjelmoinnissa esiintyvä termi, joka tarkoittaa käytännössä desimaalilukua. Liukulukuja voidaan käyttää melko samalla tavalla kuin kokonaislukuja. Huomaa, että desimaalierottimena käytetään pistettä kuten englannissa yleensä.
 
 Esimerkiksi seuraava ohjelma laskee kolmen liukuluvun keskiarvon:
 
