@@ -14,7 +14,7 @@ Tämän osion jälkeen
 
 </text-box>
 
-Tietokoneohjelmat koostuvat _komennoista_ eli yksinkertaisista toimintaohjeista, joita kone suorittaa yksi kerrallaan. Komennot voivat esimerkiksi suorittaa laskutoimituksia, vertailla koneen muistissa olevia tietoja, aiheuttaa muutoksen ohjelman toimintaan tai välittää viestejä ja kysellä tietoja käyttäjältä.
+Tietokoneohjelmat koostuvat _komennoista_ eli yksinkertaisista toimintaohjeista, joita kone suorittaa yksi kerrallaan. Komennot voivat esimerkiksi suorittaa laskutoimituksia, vertailla koneen muistissa olevia tietoja, aiheuttaa muutoksen ohjelman toimintaan tai viestiä käyttäjän kanssa.
 
 Aloitetaan ohjelmointiin tutustuminen yksinkertaisesta komennosta `print`, joka _tulostaa_ tekstiä. Tulostaminen tarkoittaa käytännössä sitä, että ohjelma näyttää tekstiä ruudulla.
 
@@ -176,7 +176,7 @@ Lyhyempi kommentti voi olla myös rivin lopussa:
 
 ```python
 print("Tuntien määrä vuodessa:")
-print(365*24) # 365 päivää, 24 h / pv
+print(365*24) # 365 päivää, 24 tuntia päivässä
 ```
 
 <in-browser-programming-exercise name="Minuutit vuodessa" tmcname="osa01-04_minuuttien_maara_vuodessa">
@@ -187,7 +187,7 @@ Tee ohjelma, joka tulostaa minuuttien määrän vuodessa. Käytä edellisen esim
 
 <in-browser-programming-exercise name="Ohjelma tulostaa koodia" tmcname="osa01-05_ohjelma_tulostaa_koodia">
 
-Tulostuslauseessa voi käyttää kaksinkertaisten lainausmerkkien `"` lisäksi myös yksinkertaista lainausmerkkiä `'`.
+Pythonissa voidaan käyttää kaksinkertaisten lainausmerkkien `"` lisäksi myös yksinkertaista lainausmerkkiä `'`.
 
 Tämä on kätevää, kun haluat tulostaa lainausmerkkejä:
 
