@@ -9,7 +9,7 @@ sidebar_priority: 5000
 
 Nämä ovat Ohjelmoinnin perusteiden (TKT10002, 5 op) ja Ohjelmoinnin jatkokurssin (TKT10003, 5 op) kurssisivut.
 
-Kurssit suoritetaan tekemällä viikoittaisia tehtäviä ja molempien kurssien päätteeksi on pakollinen tentti.
+Kurssit suoritetaan tekemällä tehtäviä ja molempien kurssien päätteeksi on pakollinen tentti.
 Tarkemmat arvosteluperusteet löytyvät [täältä](/arvostelu-ja-kokeet)
 
 Osat 1-7 muodostavat Ohjelmoinnin perusteet ja osat 8-14 muodostavan Ohjelmoinnin jatkokurssin.
@@ -35,7 +35,9 @@ Käytä ensisijaisesti viestintävälineenä Telegramia. Kurssin opettajiin voit
 
 ## Aikataulu
 
-Kurssi on auki vuoden 2021 loppuun asti.
+Kurssi on auki vuoden 2021 loppuun asti. Tehtäviä voi tehdä omaan tahtiin. Kaikkien osien tehtävät ovat tehtävissä heti.
+
+## Luentotallenteet
 
 Kurssilla ei normaalisti ole tarjolla luentoja. Osiin 2-12 liittyvät luentotallenteet onkin tehty syksyn 2020 kurssille. Asiasisältö on tätä kurssia vastaava, mutta tallenteilta mahdollisesti löytyvät huomautukset esimerkiksi tenttipäivämääriin tms. liittyen _eivät välttämättä pidä paikkaansa_!
 
