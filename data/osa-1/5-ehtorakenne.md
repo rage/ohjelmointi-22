@@ -17,7 +17,7 @@ Tämän osion jälkeen
 Tähän mennessä kaikissa ohjelmissamme on suoritettu samat rivit samassa järjestyksessä.
 Usein on kuitenkin tarpeen määritellä ohjelmaan osia, jotka suoritetaan vain tietyissä tilanteissa.
 
-Tarkastellaan ensin esimerkkiä, joka tarkastelee, onko henkilö täysi-ikäinen:
+Esimerkiksi seuraava koodi tarkastaa, onko henkilö täysi-ikäinen:
 
 ```python
 ika = int(input("Kuinka vanha olet? "))
@@ -40,7 +40,7 @@ Seuraava asiakas, kiitos!
 
 </sample-output>
 
-Jos kuitenkin ikä ei ole suurempi kuin 17, käy näin:
+Jos kuitenkaan ikä ei ole suurempi kuin 17, käy näin:
 
 <sample-output>
 
