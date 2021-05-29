@@ -18,7 +18,7 @@ Silmukka eli toistolause on ehtolauseen lisäksi keskeinen ohjausrakenne ohjelmo
 
 Periaatteessa silmukka muistuttaa ehtolausetta. Ideana kuitenkin on, että sen avulla voidaan toistaa samaa koodia useamman kerran.
 
-Tarkastellaan esimerkkiä, jossa ohjelma laskee käyttäjän syöttämien lukujen neliöitä niin kauan, että käyttäjä syöttää negatiivisen luvun:
+Tarkastellaan esimerkkiä, jossa ohjelma laskee käyttäjän syöttämien lukujen neliöitä, kunnes käyttäjä syöttää luvun -1:
 
 ```python
 while True:
@@ -214,11 +214,11 @@ Käyttäjätunnus luotu!
 
 </in-browser-programming-exercise>
 
-## silmukka ja apumuuttujat
+## Silmukka ja apumuuttujat
 
 Tehdään vielä PIN-koodin tarkastavasta ohjelmasta monimutkaisempi versio, joka antaa käyttäjälle vain kolme mahdollisuutta yrittää PIN-koodin syöttämistä.
 
-Ohjelma käyttää nyt kahta apumuuttujaa. Muuttuja `yritykset` pitää kirjaa siitä, kuinka monta kertaa käyttäjä on syöttänyt koodin.  Muuttuja `onnistui` saa arvokseen joko `True` tai `False` riippuen siitä, onnistuuko kirjautuminen.
+Ohjelma käyttää nyt kahta apumuuttujaa. Muuttuja `yritykset` pitää kirjaa siitä, montako kertaa käyttäjä on syöttänyt koodin.  Muuttuja `onnistui` saa arvokseen joko `True` tai `False` riippuen siitä, onnistuuko kirjautuminen.
 
 ```python
 yritykset = 0
@@ -239,7 +239,7 @@ while True:
     print("Väärin... yritä uudelleen")
 
 if onnistui:
-    print("Pinkoodi oikein!")
+    print("PIN-koodi oikein!")
 else:
     print("Liian monta yritystä...")
 ```
@@ -266,11 +266,11 @@ Liian monta yritystä...
 
 Silmukasta tullaan siis ulos, jos käyttäjä syöttää oikean PIN-koodin _tai_ jos yrityksiä tehdään liian monta. Silmukan jälkeinen if-lause tarkastaa muuttujan `onnistui` arvon perusteella, onko kirjautuminen onnistunut vai ei.
 
-## pro-tip: debuggaustulostus silmukassa
+## Debug-tulostus silmukassa
 
-Kun ohjelmat alkavat sisältää silmukoita, kasvavat mahdolliset bugienkin lähteet ihan uudelle tasolle, ja tämän osan [ensimmäisessä luvussa](/osa-2/1-ohjelmoinnin-termeja) mainittujen debugtulostuksien teko muuttuu entistäkin tärkeämmäksi.
+Kun ohjelma sisältää silmukoita, kasvavat mahdolliset bugienkin lähteet uudelle tasolle, ja tämän osan [ensimmäisessä luvussa](/osa-2/1-ohjelmoinnin-termeja) mainittujen debug-tulostusten tekeminen muuttuu entistäkin tärkeämmäksi.
 
-Esim. jos edellinen esimerkki olisi koodattu hieman väärin:
+Tarkastellaan esimerkkiä, jossa edellinen ohjelma on koodattu hieman väärin:
 
 ```python
 yritykset = 0
@@ -290,12 +290,12 @@ while True:
     print("Väärin... yritä uudelleen")
 
 if onnistui:
-    print("Pinkoodi oikein!")
+    print("PIN-koodi oikein!")
 else:
     print("Liian monta yritystä...")
 ```
 
-ohjelma toimii kummalliseti, se antaa yrittää PIN-koodia kolmesti, mutta valittaa että yrityksiä on liian monta vaikka lopussa syötettiin oikea koodi:
+Ohjelma toimii kummallisesti: se antaa yrittää PIN-koodia kolmesti mutta valittaa, että yrityksiä on liian monta, vaikka lopussa syötettiin oikea koodi:
 
 <sample-output>
 
@@ -355,7 +355,7 @@ Liian monta yritystä...
 
 </sample-output>
 
-Kun tulostuksia silmäillään hieman huomataan, että kolmannella while-lohkon suorituksella ensimmäisen _if_-komennon ehto on arvoltaan tosi, ja silmukasta poistutaan ennen kuin ehditään tarkastaa oliko juuri syötetty salasana oikein:
+Tulostuksista huomataan, että kolmannella silmukan kierroksella ensimmäisen `if`-komennon ehto on tosi ja silmukasta poistutaan, ennen kuin ehditään tarkastaa, oliko juuri syötetty salasana oikein:
 
 ```python
   while True:
@@ -389,7 +389,7 @@ Oikein, tarvitsit 4 yritystä
 
 </sample-output>
 
-Tulostus on hieman erilainen jos PIN-koodi on oikea heti ensimmäiselä yrityksellä:
+Tulostus on hieman erilainen jos PIN-koodi on oikea heti ensimmäisellä yrityksellä:
 
 <sample-output>
 
@@ -403,7 +403,7 @@ Oikein, tarvitsit vain yhden yrityksen!
 
 <in-browser-programming-exercise name="Seuraava karkausvuosi" tmcname="osa02-20_seuraava_karkausvuosi">
 
-Tee ohjelma, joka kyselee käyttäjältä vuosilukua ja kertoo milloin on seuraava karkausvuosi.
+Tee ohjelma, joka kyselee käyttäjältä vuosilukua ja kertoo, milloin on seuraava karkausvuosi.
 
 <sample-output>
 
@@ -412,7 +412,7 @@ Vuotta 2019 seuraava karkausvuosi on 2020
 
 </sample-output>
 
-Jos käyttäjän syöttämä vuosi on karkausvuosi (kuten esim. 2020) ei ohjelma kerro tätä vuotta vaan sitä seuraavan karkausvuoden:
+Jos käyttäjän syöttämä vuosi on karkausvuosi (kuten 2020), ohjelma ei kerro tätä vuotta vaan sitä seuraavan karkausvuoden:
 
 <sample-output>
 
@@ -425,7 +425,7 @@ Vuotta 2020 seuraava karkausvuosi on 2024
 
 ## Merkkijonon kokoaminen plus-operaattorilla
 
-PIN-koodin tarkastavassa esimerkissä käytimme apumuuttujaa `yritykset` pitämään kirjaa siitä kuinka monta kertaa PIN-koodi on syötetty:
+PIN-koodin tarkastavassa esimerkissä käytimme apumuuttujaa `yritykset` pitämään kirjaa siitä, montako kertaa PIN-koodi on syötetty:
 
 ```python
 yritykset = 0
@@ -436,12 +436,11 @@ while True:
     # ...
 ```
 
-Muuttuja alustetaan arvoon nolla silmukan ulkopuolella, ja jokainen silmukan suoritus kasvattaa sen arvoa yhdellä.
+Muuttuja saa arvon nolla silmukan ulkopuolella, ja jokainen silmukan suoritus kasvattaa sen arvoa yhdellä.
 
 Vastaava idea toimii myös merkkijonoille. Voisimme laajentaa ohjelmaa siten, että se kokoaa yhteen merkkijonoon kaikki käyttäjän syöttämät PIN-koodit:
 
 ```python
-
 tunnukset = ""
 yritykset = 0
 
@@ -452,7 +451,7 @@ while True:
     # ...
 ```
 
-Apumuuttuja saa aluksi arvokseen _tyhjän merkkijonon_, eli merkkijonon jonka pituus on nolla:
+Apumuuttuja saa aluksi arvokseen _tyhjän merkkijonon_ eli merkkijonon, jossa ei ole yhtään merkkiä:
 
 ```python
 tunnukset = ""
