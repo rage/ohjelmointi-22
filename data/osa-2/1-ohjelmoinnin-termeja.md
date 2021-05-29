@@ -157,23 +157,11 @@ SyntaxError: invalid syntax
 
 </sample-output>
 
-Kurssin ensimmäisessä kolmessa osassa käytössä oleva selainympäristö ei valitettavasti käytä täysin samoja virheilmoituksia kun "oikea" python-ympäristö, jonka otamme käyttöön osassa 4.
-
-Edellinen esimerkki tuottaa selainympäristön pythonissa seuraavanlaisen hieman vähemmän kuvaavan virheilmoituksen:
-
-<sample-output>
-
-<pre>
-SyntaxError: bad input on line 1
-</pre>
-
-</sample-output>
-
 ## Debuggaaminen
 
-Kun ohjelman syntaksi on kunnossa, eli ohjelma on kirjoitettu Pythonin "kieliopin" mukaisesti, mutta ohjelma ei toimi halutulla tavalla, on ohjelmassa _bugi_.
+Kun ohjelman syntaksi on kunnossa mutta ohjelma ei toimi halutulla tavalla, ohjelmassa on _bugi_.
 
-Bugit ilmenevät eri tavoin. Jotkut bugit aiheuttavat suoritusaikaisen virheen. Esim. ohjelma
+Bugit ilmenevät eri tavoin. Jotkin bugit aiheuttavat suoritusaikaisen virheen. Esim. ohjelma
 
 ```python
 x = 10
@@ -199,9 +187,9 @@ Suoritusaikaiseen virheeseen johtavat bugit ovat usein helpohkoja korjata, sill�
 
 Joskus bugi taas ilmenee siten, että koodin tuottama tulos on virheellinen. Tälläisten bugien havaitseminen ja niiden syyn paikallistaminen voi olla haastavaa. Kurssin tehtävissä testit paljastavat usein juuri tämän kategorian bugeja. Ennen kuin ongelma päästään korjaamaan, on bugi paikallistettava.
 
-Koodarijargonissa bugien syiden selvittämistä kutsutaan _debuggaamiseksi_. Debuggaaminen on äärimmäisen keskeinen taito, itse asiassa ammatikseen ohjelmoivat käyttävät usein huomattavasti enemmän aikaa debuggaamiseen kuin varsinaiseen ohjelmointiin.
+Koodarijargonissa bugien syiden selvittämistä kutsutaan _debuggaamiseksi_. Debuggaaminen on äärimmäisen keskeinen taito, ja ammatikseen ohjelmoivat käyttävät usein enemmän aikaa debuggaamiseen kuin varsinaiseen ohjelmointiin.
 
-Yksinkertainen mutta varsin tehokas debuggauskeino on lisäillä ohjelmaan "debug-tulostuksia", eli `print`-komentoja, joiden avulla varmistetaan, että koodissa tapahtuu ohjelmoijan olettamia asioita.
+Yksinkertainen mutta tehokas debuggauskeino on lisätä ohjelmaan debug-tulostuksia eli `print`-komentoja, joiden avulla varmistetaan, että koodissa tapahtuu ohjelmoijan olettamia asioita.
 
 Seuraavassa on ratkaisuyritys yhteen [edellisen osan](/osa-1/5-ehtorakenne) tehtävään:
 
@@ -239,16 +227,13 @@ Palkka 276.0 euroa
 
 Debugattaessa ohjelman toimintaa kokeillaan usein. Voikin olla hyödyllisä "kovakoodata" ongelman aiheuttavat syötteet suoraan koodiin sen sijaan, että ne kysyttäisiin joka kerta käyttäjältä. Tämä onnistuu esimerkiksi muuttamalla koodia tilapäisesti seuraavalla tavalla:
 
-
 ```python
-if False:
-    tuntipalkka = float(input("Tuntipalkka: "))
-    tunnit = int(input("Työtunnit: "))
-    paiva = input("Viikonpäivä: ")
-else: # suoritus tulee nyt aina tänne
-    tuntipalkka = 23.0
-    tunnit = 12
-    paiva = "sunnuntai"
+# tuntipalkka = float(input("Tuntipalkka: "))
+# tunnit = int(input("Työtunnit: "))
+# paiva = input("Viikonpäivä: ")
+tuntipalkka = 23.0
+tunnit = 12
+paiva = "sunnuntai"
 
 palkka = tuntipalkka * tunnit
 if paiva == "sunnnuntai":
@@ -256,8 +241,6 @@ if paiva == "sunnnuntai":
 
 print(f"Palkka {palkka} euroa")
 ```
-
-Syötteet voidaan lukea tarvittaessa käyttäjältä vaihtamalla if-rakenteen ehdoksi `True`.
 
 Seuraava askel on lisäillä koodiin _debug-tulostuksia_. Koska nimenomaan sunnuntain palkka lasketaan väärin, laitetaan sen hoitavaan osaan tulostukset korotusta ennen ja sen jälkeen:
 
