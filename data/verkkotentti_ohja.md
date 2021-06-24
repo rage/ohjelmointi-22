@@ -1,8 +1,8 @@
 ---
 path: "/verkkotentti-ohja"
-title: "Verkkotentti 3.7"
+title: "Jatkokurssin verkkotentti 3.7"
 information_page: true
-hide_in_sidebar: true
+hide_in_sidebar: false
 ---
 
 ### Ohjelmoinnin jatkokurssi

@@ -1,7 +1,8 @@
 ---
 path: "/verkkotentti"
-title: "Verkkotentti 3.7"
+title: "Perusteiden verkkotentti 3.7"
 information_page: true
+sidebar_priority: 3000
 ---
 
 ### Ohjelmoinnin perusteet
