@@ -1,18 +1,19 @@
 ---
-path: "/verkkotentti"
+path: "/verkkotentti-ohja"
 title: "Verkkotentti 3.7"
 information_page: true
+hide_in_sidebar: true
 ---
 
-### Ohjelmoinnin perusteet
+### Ohjelmoinnin jatkokurssi
 
 <text-box variant="hint" name="Huomio">
 <notice>Huomaa, että 3.7 voi tehdä molempien kurssien tentin.</notice>
 
 
-Ohjelmoinnin jatkokurssin tentin [ohjeet](/verkkotentti-ohja) ovat eri sivulla
+Ohjelmoinnin perusteiden tentin [ohjeet](/verkkotentti) ovat eri sivulla
 
-<a href="/verkkotentti-ohja">https://ohjelmointi-21.mooc.fi/verkkotentti-ohja</a>
+<a href="/verkkotentti">https://ohjelmointi-21.mooc.fi/verkkotentti</a>
 
 </text-box>
 
@@ -36,7 +37,7 @@ Ohjelmoinnin jatkokurssin tentin [ohjeet](/verkkotentti-ohja) ovat eri sivulla
 2. Valitse TMC-valikosta `My courses`-näkymä.
 3. Paina `Add new course`-nappulaa.
 4. Valitse organisaatioksi `Helsingin yliopisto`.
-5. Valitse kurssiksi `OHPE Python, kesä 2021, Verkkotentti 1`.
+5. Valitse kurssiksi `OHJA Python, kesä 2021, Verkkotentti 2`.
 6. Lataa tehtäväpohjat.
 7. Testaa tehtävien lähettämistä.
 8. Jos saat lähetettyä tehtävät palvelimelle niin olet valmis tekemään tentin, muutoin ole yhteydessä ohjaajaan.
@@ -45,8 +46,8 @@ Ohjelmoinnin jatkokurssin tentin [ohjeet](/verkkotentti-ohja) ovat eri sivulla
 
 * Tenttikysymykset ilmestyvät <a href="https://exams.mooc.fi/fi">https://exams.mooc.fi/fi</a> sivulle tenttipäivänä klo 10:00.
 * Tentti-sivuille kirjaudutaan käyttäen normaaleja mooc.fi-tunnuksia.
-* Valitse kurssiksi `OHPE Python, kesä 2021, Verkkotentti 1`.
-* Jos olet oikeutettu lisäaikaan valitse `OHPE Python, kesä 2021, Verkkotentti 1 (LISÄAIKA)`.
+* Valitse kurssiksi `OHJA Python, kesä 2021, Verkkotentti 2`.
+* Jos olet oikeutettu lisäaikaan valitse `OHJA Python, kesä 2021, Verkkotentti 2 (LISÄAIKA)`.
 * Tenttiaika alkaa siitä hetkestä kun painat `Aloita tentti` -linkkiä.
 
 <notice>
