@@ -277,7 +277,7 @@ else:
     print("Merkkijono on tyhjä eli ensimmäistä merkkiä ei ole")
 ```
 
-Tässä koodissa tyhjä syöte (käyttäjä painaa ainoastaan Enter) aiheuttaisi virheen, ellei koodari olisi laittaa tarkastusta tilanteen varalta.
+Tässä koodissa tyhjä syöte (käyttäjä painaa ainoastaan Enter) aiheuttaisi virheen, ellei koodari olisi lisännyt tarkastusta tilanteen varalta.
 
 <in-browser-programming-exercise name="Lopusta alkuun" tmcname="osa03-05c_lopusta_alkuun">
 
@@ -617,7 +617,7 @@ o löytyy
 
 </in-browser-programming-exercise>
 
-Operaattori `in` palauttaa tiedon osajonon esiintymisestä, muttei tietoa siitä, _mistä_ se löytyy. Tätä varten Pythonin merkkijonoissa _metodi_ `find`, joka saa parametrikseen etsittävän osajonon ja palauttaa joko ensimmäisen indeksin, josta osajono löytyy, tai `-1`, jos osajonoa ei löydy merkkijonosta.
+Operaattori `in` palauttaa tiedon osajonon esiintymisestä, muttei tietoa siitä, _mistä_ se löytyy. Tätä varten löytyy Pythonin merkkijonojen _metodi_ `find`, joka saa parametrikseen etsittävän osajonon ja palauttaa joko ensimmäisen indeksin, josta osajono löytyy, tai `-1`, jos osajonoa ei löydy merkkijonosta.
 
 Metodia käytetään seuraavasti:
 
