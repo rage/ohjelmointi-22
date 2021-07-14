@@ -277,7 +277,7 @@ else:
     print("Merkkijono on tyhjä eli ensimmäistä merkkiä ei ole")
 ```
 
-Tässä koodissa tyhjä syöte (käyttäjä painaa ainoastaan Enter) aiheuttaisi virheen, ellei koodari olisi laittaa tarkastusta tilanteen varalta.
+Tässä koodissa tyhjä syöte (käyttäjä painaa ainoastaan Enter) aiheuttaisi virheen, ellei koodari olisi lisännyt tarkastusta tilanteen varalta.
 
 <in-browser-programming-exercise name="Lopusta alkuun" tmcname="osa03-05c_lopusta_alkuun">
 
