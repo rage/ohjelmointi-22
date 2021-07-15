@@ -291,8 +291,8 @@ niin tuloksena on:
 
 <sample-output>
 
-Parametrien summa on 3
-Parametrien summa on 140
+Parametrien 1 ja 2 summa on 3
+Parametrien 130 ja 10 summa on 140
 
 </sample-output>
 
