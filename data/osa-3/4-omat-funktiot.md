@@ -304,7 +304,7 @@ Palaamme funktioihin ja parametrien määrittelyyn tarkemmin seuraavan osan alus
 
 Kuten olemme nähneet, funktioiden sisällä on mahdollista määritellä muuttujia. Kannattaa myös huomata se, että funktio näkee sen ulkopuolella eli pääohjelmassa määritellyt muuttujat. Tälläisia muuttujia sanotaan _globaaleiksi_ muuttujiksi.
 
-Globalien muuttujien käyttämistä funktioista käsin ei useimmiten pidetä hyvänä asiana muun muassa siksi, että ne saattavat johtaa ikäviin bugeihin.
+Globaalien muuttujien käyttämistä funktioista käsin ei useimmiten pidetä hyvänä asiana muun muassa siksi, että ne saattavat johtaa ikäviin bugeihin.
 
 Seuraavassa on esimerkki funktiosta, joka käyttää "vahingossa" globaalia muuttujaa:
 
@@ -327,7 +327,7 @@ Hei Emilia
 
 </sample-output>
 
-Vaikka funktiota kutsutaan oikein, se tulosaa aina globaalissa muuttujassa olevan nimen _Emilia_.
+Vaikka funktiota kutsutaan oikein, se tulostaa aina globaalissa muuttujassa olevan nimen _Emilia_.
 
 <in-browser-programming-exercise name="Keskiarvo" tmcname="osa03-25_keskiarvo">
 
