@@ -129,7 +129,7 @@ Anna indeksi: **-1**
 
 ## Alkioiden lisääminen ja poistaminen
 
-Listan loppuun voidaan lisätä uusia alkoita `append`-metodin avulla. Metodia käytetään seuraavasti:
+Listan loppuun voidaan lisätä uusia alkioita `append`-metodin avulla. Metodia käytetään seuraavasti:
 
 ```python
 luvut = []
@@ -178,7 +178,7 @@ Kengännumerot:
 
 </sample-output>
 
-<programming-exercise name='Alkoiden lisäys listaan' tmcname='osa04-07b_alkoiden_lisays_listaan'>
+<programming-exercise name='Alkioiden lisäys listaan' tmcname='osa04-07b_alkoiden_lisays_listaan'>
 
 Tee ohjelma, joka kysyy käyttäjältä ensin lukujen määrän. Sen jälkeen ohjelma pyytää käyttäjää syöttämään annetun määrän lukuja yksitellen ja lisää ne listaan samassa järjestyksessä.
 
@@ -322,7 +322,7 @@ Moi!
 
 </sample-output>
 
-Voit olettaa, että listalta ei yritetä poistaa alkoita, jos lista on tyhjä.
+Voit olettaa, että listalta ei yritetä poistaa alkioita, jos lista on tyhjä.
 
 **Huom:** tässä tehtävässä (eikä missään muussakaan tehtävissä missä _ei_ erikseen pyydetä funktioiden toteuttamista) mitään koodia __ei tule sijoittaa__
 `if __name__ == "__main__"`-lohkoon!
@@ -490,7 +490,7 @@ lista.append(2)
 lista.sort()
 ```
 
- Sen sijaan esimerkiksi `max`,  `min`, `len` ja `sorted` ovat _funktioita_, joille lista annetaan parametrina:
+Sen sijaan esimerkiksi `max`,  `min`, `len` ja `sorted` ovat _funktioita_, joille lista annetaan parametrina:
 
 ```python
 lista = [3, 2, 7, 1]
