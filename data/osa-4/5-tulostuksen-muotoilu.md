@@ -91,7 +91,7 @@ Olemme toistaiseksi käyttäneet f-merkkijonoja vain niiden yksinkertaisimmassa 
 
 ```python
 luku = 1/3
-print("Luku on", luku)
+print(f"Luku on {luku}")
 ```
 
 <sample-output>
@@ -146,7 +146,7 @@ Hei Pekka, olet 59-vuotias, asuinpaikkasi on Lappeenranta
 
 F-merkkijonon voi ajatella olevan eräänlainen funktio, joka tuottaa normaalin merkkijonon aaltosuluissa olevien "parametrien" perusteella.
 
-<programming-exercise name=' Lukulistasta merkkijonolistaksi' tmcname='osa04-20_lukulistasta_merkkijonolistaksi'>
+<programming-exercise name='Lukulistasta merkkijonolistaksi' tmcname='osa04-20_lukulistasta_merkkijonolistaksi'>
 
 Kirjoita funktio `muotoile`, joka saa parametrikseen liukulukuja sisältävän listan. Funktio muodostaa listan perusteella uuden merkkijonoja sisältävän listan, jossa jokainen liukulukulistan alkio esitetään pyöristettynä kahden desimaalin tarkkuuteen. Listan alkioiden järjestyksen tulee säilyä.
 
