@@ -111,7 +111,7 @@ Antti
 
 Vaikka funktiota kutsutaan oikein, se tulostaa aina globaalissa muuttujassa _nimilista_ olevat nimet.
 
-Kaikki funktioita testaava koodi on kirjoitettava erillisen lohkon sisälle, jotta TMC-testit hyäksyisivät koodin. Edellinen esimerkki siis tulisi toteuttaa seuraavasti:
+Kaikki funktioita testaava koodi on kirjoitettava erillisen lohkon sisälle, jotta TMC-testit hyväksyisivät koodin. Edellinen esimerkki siis tulisi toteuttaa seuraavasti:
 
 ```python
 def tulosta_vaarinpain(nimet: list):
