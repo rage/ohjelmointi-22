@@ -300,6 +300,7 @@ Ensimmäisessä kutsussa parametrien arvot funktion sisällä ovat `x = 1` ja `y
 
 Palaamme funktioihin ja parametrien määrittelyyn tarkemmin seuraavan osan alussa.
 
+<!--vastaava varoitusteksti löytyy osioista 3-4, 4-6 ja 5-1, tsekkaa kaikki jos muokkaat tätä-->
 ## Varoitus: globaalin muuttujan käyttö funktion sisällä
 
 Kuten olemme nähneet, funktioiden sisällä on mahdollista määritellä muuttujia. Kannattaa myös huomata se, että funktio näkee sen ulkopuolella eli pääohjelmassa määritellyt muuttujat. Tälläisia muuttujia sanotaan _globaaleiksi_ muuttujiksi.
