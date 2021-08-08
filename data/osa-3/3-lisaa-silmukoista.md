@@ -8,7 +8,7 @@ hidden: false
 
 Tämän osion jälkeen
 
-- Osaat keskeyttää silmukan `break`-komennolla
+- Ymmärrät milloin `break`-komentoa tarvitaan silmukan keskeyttämiseen 
 - Osaat siirtyä silmukan seuraavalle kierrokselle `continue`-komennolla
 - Ymmärrät sisäkkäisen silmukan toiminnan
 
