@@ -150,7 +150,7 @@ TMC-testit suoritetaan aina siten, että mitään `if`-lohkon sisällä olevaa k
 Ennen tämän osan tehtäviin menemistä on syytä kiinnittää huomiota pariin potentiaaliseen ongelmalähteeseen. Tarkastellaan funktiota, joka kertoo löytyykö parametrina oleva luku listalta:
 
 ```python
-def luku_listalla(luvut: lista, luku: int):
+def luku_listalla(luvut: list, luku: int):
     for luku in luvut:
         if luku == luku:
             return True
@@ -163,7 +163,7 @@ Funktio palauttaa jostain syystä aina `True`. Syynä tälle on se, että for-si
 Ongelmasta päästään eroon nimeämällä parametri uudelleen:
 
 ```python
-def luku_listalla(luvut: lista, etsittava_luku: int):
+def luku_listalla(luvut: list, etsittava_luku: int):
     for luku in luvut:
         if luku == etsittava_luku:
             return True
@@ -181,7 +181,7 @@ print(on)  # tulostuu False
 Vika on nyt siinä että funktiosta poistutaan liian aikaisin. Funktio tarkistaa ainoastaan ensimmäisen luvun ja riippuen sen arvosta palauttaa heti joko arvon `True` tai `False`. Lopullista tuomiota, eli tietoa siitä että luku _ei ole listalla_ ei voi kuitenkaan antaa ennen kuin kaikki luvut on tarkastettu. Komento `return False` pitääkin siirtää silmukan ulkopuolelle:
 
 ```python
-def luku_listalla(luvut: lista, etsittava_luku: int):
+def luku_listalla(luvut: list, etsittava_luku: int):
     for luku in luvut:
         if luku == etsittava_luku:
             return True
