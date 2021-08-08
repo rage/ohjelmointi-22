@@ -84,7 +84,7 @@ for merkki in nimi:
 
 <sample-output>
 
-Anna nimesi: Pekka
+Anna nimesi: **Pekka**
 P
 e
 k
@@ -316,15 +316,15 @@ Vihje: funktio `sorted` toimii myös merkkijonoille.
 
 <programming-exercise name='Palindromit' tmcname='osa04-14_palindromit'>
 
-Tee funktio `palindromi`, joka saa parametriksi merkkijonon ja palauttaa True, jos merkkijono on palindromi (eli samansisältöinen luettuna alusta loppuun tai lopusta alkuun).
+Tee funktio `palindromi`, joka saa parametriksi merkkijonon ja palauttaa `True`, jos merkkijono on palindromi (eli samansisältöinen luettuna alusta loppuun tai lopusta alkuun).
 
 Tee myös funktiota hyödyntävä pääohjelma, joka kyselee käyttäjältä sanoja niin kauan, kunnes käyttäjä syöttää palindromin:
 
 <sample-output>
 
-Anna sana: **python**
+Anna palindromi: **python**
 ei ollut palindromi
-Anna sana: **java**
+Anna palindromi: **java**
 ei ollut palindromi
 Anna palindromi: **kauppias**
 ei ollut palindromi
@@ -489,7 +489,7 @@ eero
 
 Tee funktio `pisimmat`, joka saa parametriksi listan merkkijonoja. Funktio palauttaa listan, joka sisältää parametrina annetun listan pisimmän merkkijonon. Jos pisimpiä merkkijonoja on useampia, funktio palauttaa ne kaikki listassa.
 
-Nimien järjestyksen tuloslistassa tulee noudattaa nimien järjestystä alkuperäisessä listassa.
+Merkkijonojen järjestyksen tuloslistassa tulee noudattaa merkkijonojen järjestystä alkuperäisessä listassa.
 
 ```python
 lista = ["eka", "toka", "kolmas", "seitsemäs"]

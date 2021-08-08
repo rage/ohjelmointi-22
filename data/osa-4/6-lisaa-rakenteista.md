@@ -76,7 +76,7 @@ ikkremise
 
 Funktioiden sisällä on mahdollista määritellä muuttujia, mutta tämän lisäksi funktio näkee sen ulkopuolella pääohjelmassa määritellyt muuttujat. Tälläisia muuttujia sanotaan _globaaleiksi_ muuttujiksi.
 
-Globalien muuttujien käyttämistä funktioista käsin ei useimmiten pidetä hyvänä asiana muun muassa siksi, että ne saattavat johtaa ikäviin bugeihin.
+Globaalien muuttujien käyttämistä funktioista käsin ei useimmiten pidetä hyvänä asiana muun muassa siksi, että ne saattavat johtaa ikäviin bugeihin.
 
 Seuraavassa on esimerkki funktiosta, joka käyttää "vahingossa" globaalia muuttujaa:
 
@@ -193,7 +193,7 @@ mjono = mjono + "!"
 
 Ensimmäisessä esimerkissä listan sisältö muuttuu. Toisessa esimerkissä alkuperäinen merkkijono korvataan toisella merkkijonolla. Alkuperäinen merkkijono jää muistiin, mutta siihen ei enää ole viittausta, joten sitä ei voi enää käyttää ohjelmassa.
 
-Tähän palataan tarkemmin ensi viikolla, kun puhutaan listojen käytöstä funktioiden parametreina ja paluuarvoina.
+Tähän palataan tarkemmin ensi viikolla, kun viittauksia listoihin käsitellään tarkemmin.
 
 ## Lisää metodeita
 
@@ -399,10 +399,10 @@ def main():
 main()
 ```
 
-Näin ohjelman apumetodeja on mahdollista testata ilman pääohjelman suorittamista:
+Näin ohjelman apufunktioita on mahdollista testata ilman pääohjelman suorittamista:
 
 ```python
-# apumetodi, joka laskee arvosanan pisteiden perusteella
+# apufunktio, joka laskee arvosanan pisteiden perusteella
 def arvosana(pisteet):
     # koodia
 
@@ -413,7 +413,7 @@ def main():
 # kommentoidaan pääohjelma pois
 #main()
 
-# testataan apumetodia
+# testataan apufunktiota
 pistemaara = 35
 tulos = arvosana(pistemaara)
 print(tulos)
@@ -476,7 +476,7 @@ Perusperiaatteena ohjelmassa on se, että pääohjelma "tallentaa" ohjelman käs
 
 Jos lukuja on tarve käsitellä jossain funktiossa, ne välitetään sinne parametrina. Näin tapahtuu funktioissa `tulosta` ja `analysoi`. Jos taas funktio tuottaa tietoa, jota muut ohjelman osat tarvitsevat, palauttaa funktio datan `return`-komennolla. Näin tekevät käyttäjän syötteen lukeva funktio `lue_kayttajalta` sekä analyysin tekevä funktio `analysoi`.
 
-Olisi periaatteessa mahdollista, että funktiot käyttäisivät suoraan "pääohjelman" globaalia muuttujaa `syotteet`. Se [ei kuitenkaan ole järkevää](https://softwareengineering.stackexchange.com/questions/148108/why-is-global-state-so-evil), sillä jos funktiot muuttamaan globaalia muuttujaa, voi ohjelmassa alkaa tapahtua jotain hallitsematonta, varsinkin kun funktioiden määrä kasvaa.
+Olisi periaatteessa mahdollista, että funktiot käyttäisivät suoraan "pääohjelman" globaalia muuttujaa `syotteet`. Se [ei kuitenkaan ole järkevää](https://softwareengineering.stackexchange.com/questions/148108/why-is-global-state-so-evil), sillä jos funktiot pystyvät muuttamaan globaalia muuttujaa, voi ohjelmassa alkaa tapahtua jotain hallitsematonta, varsinkin kun funktioiden määrä kasvaa.
 
 Tiedon välitys funktioihin ja niistä ulos on siis järkevintä hoitaa parametrien ja paluuarvojen avulla.
 
@@ -571,7 +571,7 @@ Koepisteet ja harjoitusten määrä: **15 87**
 
 </sample-output>
 
-Syöterivi pitää pilkkoa ensin kahtia ja muuttaa palaset kokonaisluvuksi `int`-funktiolla. Rivin pilkkominen onnistuu samaalla tavalla kun tehtävässä [Eka, toka ja vika sana](/osa-4/2-lisaa-funktioista). Siihen on olemassa myös hieman helpompi keino, merkkijonojen metodi `split`. Googlaa jos haluat, käytä esim. hakusanoja *python string split*.
+Syöterivi pitää pilkkoa ensin kahtia ja muuttaa palaset kokonaisluvuksi `int`-funktiolla. Rivin pilkkominen onnistuu samalla tavalla kun tehtävässä [Eka, toka ja vika sana](/osa-4/2-lisaa-funktioista). Siihen on olemassa myös hieman helpompi keino, merkkijonojen metodi `split`. Googlaa jos haluat, käytä esim. hakusanoja *python string split*.
 
 <!-- **Huomaa** että tällä hetkellä Windowsissa on ongelmia joidenkin tehtävien testien suorittamisessa. Jos törmäät seuraavaan virheilmoitukseen
 

@@ -132,7 +132,7 @@ Voimme kutsua funktiota myös toisen funktion sisältä. Esimerkiksi seuraavassa
 
 ```python
 def tervehdi(nimi):
-    print("Moikka", nimi)
+    print("Moikka,", nimi)
 
 def tervehdi_monesti(nimi, kerrat):
     while kerrat > 0:
@@ -694,7 +694,7 @@ def tulosta_monesti(viesti : str, kerrat : int):
 
 Tämä kertoo funktion käyttäjälle, että parametrin `viesti` on tarkoitus olla merkkijono, kun taas parametrin `kerrat` on tarkoitus olla kokonaisluku.
 
-Vastaavasti funktion paaluarvon tyypin voi vihjata funktion määrittelyssä:
+Vastaavasti funktion paluuarvon tyypin voi vihjata funktion määrittelyssä:
 
 ```python
 def kysy_nimi() -> str:
