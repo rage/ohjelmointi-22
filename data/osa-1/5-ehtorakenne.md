@@ -274,6 +274,8 @@ Kiitos!
 
 Ehtorakenteessa käytettävä ehto saa totuusarvon `True` (tosi) tai `False` (epätosi). Esimerkiksi ehto `a < 5` on tosi jos `a` on alle 5 ja epätosi jos `a` on 5 tai suurempi.
 
+Ohjelmoinnissa totuusarvoja kutsutaan usein boolean-arvoiksi matemaatikko George Boolen kehittämän algebrallisen rakenteen mukaan. Pythonissa totuusarvoja käsitellään `bool`-tietotyypin avulla, ja `bool`-tyyppisillä muuttujilla voi olla vain kaksi eri arvoa: `True` tai `False`. 
+
 Voimme asettaa ehdon tuloksen muuttujan arvoksi samaan tapaan kuin laskutoimituksen tuloksen:
 
 ```python
