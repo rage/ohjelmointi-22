@@ -7,11 +7,9 @@ information_page: true
 
 Kesällä kurssilla järjestetään ohjausta zoomissa tiistaisin kello 14.00-16.00 ja telegramissa torstaisin kello 14.00-16.00.
 
-<notice>Ohjausta ei järjestetä tiistaina 3.8. ja torstaina 5.8.</notice>
+<notice>Ohjausajat saattavat muuttua kurssin myötä.</notice>
 
 </br>
-
-<notice>Ohjausajat saattavat muuttua kurssin myötä.</notice>
 
 ## Zoom
 
