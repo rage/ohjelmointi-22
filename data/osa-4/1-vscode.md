@@ -17,7 +17,7 @@ Olemme tähän mennessä ohjelmoineet kaikki tehtävät kurssisivuille upotettui
 
 Erilaisia ohjelmointiin sopivia editoreja on kymmeniä. Käytämme kurssilla viime vuosina suureen suosioon noussutta [Visual Studio Code](https://code.visualstudio.com/) -editoria.
 
-Asenna nyt Visual Studio Code ja kurssin tehtävien testien suorittamiseen käytettävä TMC-plugin [tämän ohjeen](https://www.mooc.fi/fi/installation/vscode) avulla.
+Asenna nyt Visual Studio Code ja kurssin tehtävien testien suorittamiseen käytettävä TMC-plugin [tämän ohjeen](https://www.mooc.fi/fi/installation/vscode) avulla. Valitse TMC-pluginissa organisaatioksi **MOOC** ja kurssiksi **Ohjelmoinnin MOOC 2021**.
 
 <programming-exercise name='Hello Visual Studio Code' tmcname='osa04-01_hello_visualstudio_code'>
 
