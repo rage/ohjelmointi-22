@@ -5,19 +5,11 @@ hidden: false
 information_page: true
 ---
 
-Kesällä kurssilla järjestetään ohjausta zoomissa tiistaisin kello 14.00-16.00 ja telegramissa torstaisin kello 14.00-16.00.
+Syksyllä kurssilla järjestetään ohjausta 7.9. alkaen. Ohjausaikataulu päivitetään tälle sivulle lähiaikoina.
 
-<notice>Ohjausajat saattavat muuttua kurssin myötä.</notice>
+<notice>Ohjausta ei järjestetä viikolla 35 (30.8.-5.9.).</notice>
 
 </br>
-
-## Zoom
-
-Zoom on viestintäsovellus, josta saat lisätietoa [täältä](https://helpdesk.it.helsinki.fi/ohjeet/yhteydenpito-ja-julkaiseminen/videokokoukset/zoom).
-
-Tiistain zoom-huone: https://helsinki.zoom.us/j/61009637483
-
-Zoomissa voi kysyä joko mikin kautta ääneen tai kirjoittamalla.
 
 ## Telegram
 
