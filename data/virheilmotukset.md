@@ -17,16 +17,16 @@ Tarkista että ohjelmasi ei tulosta ylimääräisiä välilyöntejä. Huomaa ett
 
 ### SyntaxError: bad input on line [rivinumero]
 
-Tämä käsittää kaikki sellaiset kirjoitusvirheet koodissasi joita ei voida helposti luokitella. Esimerkiksi ehtolauseen päädystä saattaa puuttua kaksoipiste tai avainsana kuten 'while' on kirjoitettu väärin. Ainoa tapa ratkaista ongelma on tutkia virheilmoituksen antamaa riviä.
+Tämä käsittää kaikki sellaiset kirjoitusvirheet koodissasi joita ei voida helposti luokitella. Esimerkiksi ehtolauseen päädystä saattaa puuttua kaksoispiste tai avainsana kuten 'while' on kirjoitettu väärin. Ainoa tapa ratkaista ongelma on tutkia virheilmoituksen antamaa riviä.
 
     luku1 = 1
     luku1 = 2
     if luku1 < luku2 # ':' puuttuu
-        print('luku1 on suurempi')
+        print('luku2 on suurempi')
 
-Jos annettu rivi kuitenkin näyttää täysin oikealta on myös mahdollista että virhe on yhtä riviä alempana tai ylempänä. Tarkista siis myös nuo rivit.
+Jos annettu rivi kuitenkin näyttää täysin oikealta, on myös mahdollista että virhe on yhtä riviä alempana tai ylempänä. Tarkista siis myös nuo rivit.
 
-<notice>Selaimesa tehtävät ohjelmointitehtävät käyttävät Skulpt nimistä ohjelmistoa pythonin suorittamiseen. Skulpt sisältää huomattavasti vähemmän virheilmoituksia ja ominaisuuksia kuin tavallinen python-tulkki. `bad input on line` -virheilmoitus kattaa useamman ohjelmointivirheen ja siksi pelkästään sen perusteella on vaikea selvittää mikä on virheilmoituksen syy.</notice>
+<notice>Selaimessa tehtävät ohjelmointitehtävät käyttävät Pythonin suorittamiseen ohjelmistoa nimeltä Skulpt. Skulpt sisältää huomattavasti vähemmän virheilmoituksia ja ominaisuuksia kuin tavallinen Python-tulkki. Siksi virheilmoitus `bad input on line` kattaa useammankin ohjelmointivirheen. Pelkästään sen perusteella on vaikea selvittää mikä on virheilmoituksen oikea syy.</notice>
 
 ### SyntaxError: unindent does not match any outer indentation level on line [rivinumero]
 
@@ -42,8 +42,8 @@ Esimerkiksi seuraavanlainen koodi aiheuttaisi tämän virheen.
 
 Koodisi yrittää viitata muuttujaan tai olioon jota ei ole olemassa tai sitä ei 'näy'. Voi olla että muuttujalle on unohdettu antaa arvo tai muuttujaa ei löydy kirjoitusvirheen takia (kts. esimerkki). Voi myös olla muuttuja on alustettu funktion sisällä ja siihen on yritetty viitata funktion ulkopuolella.
 
-    henkilo = input('Kerro nimesi:')
-    input('Kerro ikäsi':)
+    henkilo = input('Kerro nimesi: ')
+    input('Kerro ikäsi :')
 
     print("Hei", henklo)             # virhe: henkilo kirjotettu henklo
     print("Olet", ika, "vuotias")    # virhe: muuttujaa ika ei ole määritelty
@@ -53,10 +53,10 @@ Koodisi yrittää viitata muuttujaan tai olioon jota ei ole olemassa tai sitä e
 Koodisi yrittää yhteenlaskea kokonaisluvun ja merkkijonon ilman että merkkijonoa on muunnettu kokonaisluvuksi. Muista siis muuntaa merkkijono `int()` metodilla. Voi myös olla että yritit yhdistää kokonaisluvun osaksi merkkijonoa. Tällöin sinun tulee muuntaa kokonaisluku merkkijonoksi `str()` metodilla.
 
 
-    ika = input("Anna ikä:")
-    nimi = input("Anna nimi:)
+    ika = input("Anna ikä: ")
+    nimi = input("Anna nimi: ")
 
-    printa(ika//2)   # virhe: muuttujaa ika ei ole muutettu kokonaisluvuksi
+    print(ika//2)   # virhe: muuttujaa ika ei ole muutettu kokonaisluvuksi
 
 ### TypeError: cannot concatenate 'str' and 'int' objects on line [rivinumero]
 
