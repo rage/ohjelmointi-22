@@ -18,15 +18,13 @@ Osat 1-7 muodostavat Ohjelmoinnin perusteet ja osat 8-14 muodostavan Ohjelmoinni
 
 ## Tukiväylät
 
-Kurssilla on Telegram-kanava, jonne pääset [tästä](https://t.me/python_hy/).
-Kanavalla voit keskustella muiden kurssin opiskelijoiden ja ohjaajien kanssa.
+Kurssilla annetaan ohjausta discordissa.
+Kurssin kanaville discordiin pääset [tästä](https://study.cs.helsinki.fi/discord/join/ohjelmointi21).
+Kanavilla voit keskustella muiden kurssin opiskelijoiden ja ohjaajien kanssa.
 Ohjaajia on kanavalla tiettyinä aikoina viikossa.
 Tarkan ohjausaikataulun löydät [täältä](/tuki).
 
-Käytössä on myös off topic -kanava jossa voit keskustella aiheista jotka eivät liity suoraan kurssin sisältöön.
-Off topic -kanavalle pääset [tästä](https://t.me/ohjelmointi20_ot).
-
-Käytä ensisijaisesti viestintävälineenä Telegramia. Kurssin opettajiin voit olla suoraan yhteydessä sähköpostitse osoitteella ohjelmoinnin-mooc@helsinki.fi.
+Käytä ensisijaisesti viestintävälineenä Discordia. Kurssin opettajiin voit olla suoraan yhteydessä sähköpostitse osoitteella ohjelmoinnin-mooc@helsinki.fi.
 
 
 ## Aikataulu
