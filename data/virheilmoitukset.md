@@ -30,7 +30,7 @@ Tämä käsittää kaikki sellaiset kirjoitusvirheet koodissasi joita ei voida h
 
 Jos annettu rivi kuitenkin näyttää täysin oikealta, on myös mahdollista että virhe on yhtä riviä alempana tai ylempänä. Tarkista siis myös nuo rivit.
 
-<notice>Selaimessa tehtävät ohjelmointitehtävät käyttävät Pythonin suorittamiseen ohjelmistoa nimeltä Skulpt. Skulpt sisältää huomattavasti vähemmän virheilmoituksia ja ominaisuuksia kuin tavallinen Python-tulkki. Siksi virheilmoitus `bad input on line` kattaa useammankin ohjelmointivirheen. Pelkästään sen perusteella on vaikea selvittää mikä on virheilmoituksen oikea syy.</notice>
+**HUOM: Selaimessa tehtävät ohjelmointitehtävät käyttävät Pythonin suorittamiseen ohjelmistoa nimeltä Skulpt.** Skulpt sisältää huomattavasti vähemmän virheilmoituksia ja ominaisuuksia kuin tavallinen Python-tulkki. Siksi virheilmoitus `bad input on line` kattaa useammankin ohjelmointivirheen. Pelkästään sen perusteella on vaikea selvittää mikä on virheilmoituksen oikea syy.
 
 ### SyntaxError: unindent does not match any outer indentation level on line [rivinumero]
 
