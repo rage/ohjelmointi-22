@@ -3,6 +3,7 @@ path: "/verkkotentti"
 title: "Verkkotentti 14.8"
 information_page: true
 sidebar_priority: 3000
+hide_in_sidebar: true
 ---
 
 ## Ohjelmoinnin jatkokurssi
