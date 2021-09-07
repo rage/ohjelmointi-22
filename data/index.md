@@ -33,7 +33,7 @@ Kurssi on auki vuoden 2021 loppuun asti. Tehtäviä voi tehdä omaan tahtiin.
 
 ## Luentotallenteet
 
-Kurssilla ei normaalisti ole tarjolla luentoja. Osiin 2-12 liittyvät luentotallenteet onkin tehty syksyn 2020 kurssille. Asiasisältö on tätä kurssia vastaava, mutta tallenteilta mahdollisesti löytyvät huomautukset esimerkiksi tenttipäivämääriin tms. liittyen _eivät välttämättä pidä paikkaansa_!
+Kurssin luentotallenteet päivitetään vuoden 2021 versioihin tiistaisin 7.9.2021 alkaen. Loput tallenteet ovat vuoden 2020 kurssilta. Asiasisältö on tätä kurssia vastaava, mutta tallenteilta mahdollisesti löytyvät huomautukset esimerkiksi tenttipäivämääriin tms. liittyen _eivät välttämättä pidä paikkaansa_!
 
 <table>
   <thead>
@@ -45,7 +45,7 @@ Kurssilla ei normaalisti ole tarjolla luentoja. Osiin 2-12 liittyvät luentotall
   <tbody>
     <tr>
       <td>Osa 1</td>
-      <td>Ei tallennetta</td>
+      <td><a href="https://youtu.be/6Q7CjUhLlf8">Luentotallenne (2021)</a></td>
     </tr>
     <tr>
       <td>Osa 2</td>
