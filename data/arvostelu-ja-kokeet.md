@@ -39,6 +39,10 @@ Suorituksia tarkastellaan erikseen peruskurssin (osat 1-7) ja jatkokurssin (osat
 
 Kurssilla saa osallistua halutessaan useampaan kokeeseen. Opintorekisteriin jää paras suoritus.
 
+## 1 + 1 pisteen lisäosiot
+
+Jos olet aikaisemmin suorittanut kurssin Java-versiot hyväksytysti, voit suorittaa 1 + 1 opintopisteen lisäosat. Lisäosien suorittaminen edellyttää kurssin hyväksyttyä suoritusta (tehtävätpisteet ja tentti), mutta arviointi tehdään asteikolla hyväksytty / hylätty. Lisäosan voit suorittaa osallistumalla normaalisti kokeeseen ja täyttämällä kokeen alussa olevan lomakkeen.
+
 ## Kurssin pisteytys
 
 Jokaisen osan kaikista tehtävistä saa tehtäväpisteitä. Löydät osan kaikki tehtävät valitsemalla kyseisen osan yleisnäkymästä "Lista osan tehtävistä". Näet tehtäväpisteesi kurssimateriaalin oikeassa alakulmassa olevasta pistevisualisaatiosta kohdan "Tehtäväpisteet yhteensä" kohdalta.

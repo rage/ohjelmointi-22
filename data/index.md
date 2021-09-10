@@ -16,6 +16,10 @@ Osat 1-7 muodostavat Ohjelmoinnin perusteet ja osat 8-14 muodostavan Ohjelmoinni
 
 **Huom!** Kurssin suorittamalla **ei** voi enää hakea suoraan sisäänpääsyä laitokselle (ns. MOOC-väylä) niin kuin aikaisempina vuosina. Lisätietoa laitoksen hakuväylistä löydät [opintopolku.fi-sivustolta](https://opintopolku.fi/app/#!/haku/tietojenk%C3%A4sittelytiede?page=1&facetFilters=teachingLangCode_ffm:FI&tab=los).
 
+## 1 + 1 pisteen lisäsuoritukset
+
+Jos olet aiemmin suorittanut 5 pisteen Java-versiot kursseista, voit suorittaa 1 + 1 opintopisteen lisäversiot. Lisää tietoa [arvostelu ja kokeet -osiosta](/arvostelu-ja-kokeet).
+
 ## Tukiväylät
 
 Kurssilla annetaan ohjausta discordissa.
