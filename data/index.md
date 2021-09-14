@@ -37,7 +37,7 @@ Kurssi on auki vuoden 2021 loppuun asti. Tehtäviä voi tehdä omaan tahtiin.
 
 ## Luennot
 
-Kurssin luentoja voi seurata livenä tiistaisin klo 10.15 5.9.2021 alkaen <a href="https://helsinki.zoom.us/j/64966416918">zoomissa</a>.
+Kurssin luentoja voi seurata livenä tiistaisin klo 10.15 7.9.2021 alkaen <a href="https://helsinki.zoom.us/j/64966416918">zoomissa</a>.
 
 ## Luentotallenteet
 
