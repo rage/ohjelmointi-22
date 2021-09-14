@@ -35,6 +35,10 @@ Käytä ensisijaisesti viestintävälineenä Discordia. Kurssin opettajiin voit 
 
 Kurssi on auki vuoden 2021 loppuun asti. Tehtäviä voi tehdä omaan tahtiin.
 
+## Luennot
+
+Kurssin luentoja voi seurata livenä tiistaisin klo 10.15 5.9.2021 alkaen <a href="https://helsinki.zoom.us/j/64966416918">zoomissa</a>.
+
 ## Luentotallenteet
 
 Kurssin luentotallenteet päivitetään vuoden 2021 versioihin tiistaisin 7.9.2021 alkaen. Loput tallenteet ovat vuoden 2020 kurssilta. Asiasisältö on tätä kurssia vastaava, mutta tallenteilta mahdollisesti löytyvät huomautukset esimerkiksi tenttipäivämääriin tms. liittyen _eivät välttämättä pidä paikkaansa_!
