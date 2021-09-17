@@ -14,6 +14,15 @@ Tämän osion jälkeen
 
 </text-box>
 
+## Osallistu tutkimukseen - vastaa kyselyyn
+
+Alla olevan linkin takaa löytyy Hannu Pesosen väitöskirjatutkimukseen liittyvä kysely. Kurssin suorittaminen ei edellytä kyselyyn vastaamista, mutta yliopistoissa tutkimus on luonnollisesti tärkeässä osassa myös opetuksen kehittämisessä.
+
+Jos sinulta siis löytyy hetki aikaa, niin [vastaa kyselyyn](https://link.webropolsurveys.com/S/EB89556E704FA59B).
+
+Kyselyyn ei ole pakko antaa henkilötietoja (esimerkiksi nimeä), vaikka niitä ensimmäisellä sivulla kysytäänkin.
+
+
 <!--vastaava teksti löytyy osioista 3-1, 5-1 ja 6-1, tsekkaa kaikki jos muokkaat tätä-->
 <text-box variant='hint' name='Kurssin tehtävien tekemisestä'>
 
