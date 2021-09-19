@@ -5,15 +5,21 @@ hidden: false
 information_page: true
 ---
 
-Kurssilla järjestetään ohjausta **7.9. alkaen** discordissa.
+Kurssilla järjestetään ohjausta discordissa ja **21.9. alkaen** Kumpulan kampuksella.
 
-#### Discord
+#### Pajaohjaus
 
-Discord on viestintäsovellus, josta saat lisätietoa [täältä](https://discord.com/).
+<notice>Ohjausajat saattavat muuttua kurssin myötä.</notice>
 
-Löydät kurssin kanavat [täältä](https://study.cs.helsinki.fi/discord/join/ohjelmointi21).
+Pajaohjausta kampuksella järjestetään **tiistaisin kello 14-16 luokassa BK107**
 
-#### Ohjauksesta
+Kurssilla on mahdollisuus saada hyvää ohjelmointiseuraa sekä saada apua tehtäviin, ohjelmointiin ja teknisiin ongelmiin tulemalla kurssin pajaan! Paja sijaitsee Helsingin yliopiston Kumpulan kampuksella olevassa Exactum-rakennuksessa. Kaikki ovat tervetulleita pajaan!
+
+Katso Exactum-rakennuksen tarkempi sijainti [täältä](https://www.google.com/maps?hl=en&q=Exactum,+Kumpula+Campus,+Pietari+Kalmin+katu+5,+00560+Helsinki).
+
+Pajaa pidetään luokassa **BK107** aivan Exactumin UniCafen vieressä. Exactum-rakennuksen aulassa olevasta infonäytöstä löytää salin tarkemman sijainnin. Voit myös kysyä salin sijaintia aulan vahtimestareilta sekä kampuksen henkilökunnalta ja opiskelijoilta.
+
+#### Ohjausajat discordissa
 
 Ohjaajatiimi tarjoaa apua tehtävien ratkomisessa useana päivänä viikossa. Ohjausaikana ohjaajat päivystävät discordissa ja vastaavat myös yksityisviesteinä lähetettyihin kysymyksiin. Ole huomaavainen äläkä lähetä yksityisviestejä ohjausaikojen ulkopuolella.
 
@@ -83,3 +89,9 @@ Alla olevassa aikataulussa <svg  class="svg-inline--fa fa-comment fa-w-14 fa-1x"
     </tr>
   </tbody>
 </table>
+
+#### Discord
+
+Discord on viestintäsovellus, josta saat lisätietoa [täältä](https://discord.com/).
+
+Löydät kurssin kanavat [täältä](https://study.cs.helsinki.fi/discord/join/ohjelmointi21).
