@@ -22,10 +22,9 @@ Jos olet aiemmin suorittanut 5 pisteen Java-versiot kursseista, voit suorittaa 1
 
 ## Tukiväylät
 
-Kurssilla annetaan ohjausta discordissa.
+Kurssilla järjestetään ohjausta kampuksella ja discordin välityksellä etänä.
 Kurssin kanaville discordiin pääset [tästä](https://study.cs.helsinki.fi/discord/join/ohjelmointi21).
 Kanavilla voit keskustella muiden kurssin opiskelijoiden ja ohjaajien kanssa.
-Ohjaajia on kanavalla tiettyinä aikoina viikossa.
 Tarkan ohjausaikataulun löydät [täältä](/tuki).
 
 Käytä ensisijaisesti viestintävälineenä Discordia. Kurssin opettajiin voit olla suoraan yhteydessä sähköpostitse osoitteella ohjelmoinnin-mooc@helsinki.fi.
