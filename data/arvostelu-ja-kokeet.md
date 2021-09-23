@@ -39,6 +39,17 @@ Suorituksia tarkastellaan erikseen peruskurssin (osat 1-7) ja jatkokurssin (osat
 
 Kurssilla saa osallistua halutessaan useampaan kokeeseen. Opintorekisteriin jää paras suoritus.
 
+## Tentin järjestelyistä
+
+* Tenttiin ei tarvitse ilmoittautua etukäteen.
+* Tentin voi suorittaa koepäivänä **klo 10:00-22:00** välisenä aikana.
+* Tentti päättyy viimeistään klo 22:00. Jos haluat käyttää tenttiin maksimiajan, **aloita se viimeistään klo 18:00**.
+* Aikaa tentin tekemiseen on **neljä tuntia**. Jos sinulla on erikseen annettu tenttiin lisäaikaa, aikaa on viisi tuntia.
+* Tenttikysymykset ilmestyvät <a href="https://exams.mooc.fi/fi">https://exams.mooc.fi/fi</a> sivulle tenttipäivänä klo 10:00.
+* Tehtävät palautetaan samalla tavalla kuin kurssitehtävät.
+
+Tarkemmat ohjeet julkaistaan näillä sivuilla ennen koepäivää.
+
 ## 1 + 1 pisteen lisäosiot
 
 Jos olet aikaisemmin suorittanut kurssin Java-versiot hyväksytysti, voit suorittaa 1 + 1 opintopisteen lisäosat. Lisäosien suorittaminen edellyttää kurssin hyväksyttyä suoritusta (tehtävätpisteet ja tentti), mutta arviointi tehdään asteikolla hyväksytty / hylätty. Lisäosan voit suorittaa osallistumalla normaalisti kokeeseen ja täyttämällä kokeen alussa olevan lomakkeen.
