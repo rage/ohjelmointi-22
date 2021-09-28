@@ -1,12 +1,12 @@
 ---
 path: "/verkkotentti"
-title: "Verkkotentti 14.8"
+title: "Verkkotentti 2.10"
 information_page: true
 sidebar_priority: 3000
-hide_in_sidebar: true
+hide_in_sidebar: false
 ---
 
-## Ohjelmoinnin jatkokurssi
+## Ohjelmoinnin perusteet
 
 #### Tenttiin osallistuminen
 
@@ -16,9 +16,20 @@ hide_in_sidebar: true
 #### Tentin toteutus
 
 * Tentti suoritetaan kurssitehtävien tapaan vscode-ympäristössä.
-* Kurssin tentin voi suorittaa 14.8.2021 **klo 10:00-22:00** välisenä aikana.
+* Kurssin tentin voi suorittaa 2.10.2021 **klo 10:00-22:00** välisenä aikana.
 * Tentti päättyy viimeistään klo 22:00. Jos haluat käyttää tenttiin maksimiajan, **aloita se viimeistään klo 18:00**.
 * Aikaa tentin tekemiseen on **neljä tuntia**. Jos sinulla on erikseen annettu tenttiin lisäaikaa, aikaa on viisi tuntia.
+
+#### Ennen tenttipäivää
+
+* Lue nämä ohjeet huolellisesti
+* Lataa tehtäväpohjat ja testaa tehtävien palauttamista [alla olevan ohjeen mukaisesti](#tehtavapohjien-hakeminen)
+* Jos sinulla on ongelmia tehtäväpohjien lataamisessa tai palauttamisessa, muita teknisiä ongelmia tai muuta kysyttävää tentin järjestelyistä, voit kysyä apua kurssin [Discordissa](https://study.cs.helsinki.fi/discord/join/ohjelmointi21)
+
+#### Tenttipäivänä
+
+* Teknisten ongelmien varalta ohjaaja päivystää tenttipäivänä **klo 09:00-11:00** [Discordissa](https://study.cs.helsinki.fi/discord/join/ohjelmointi21) `ohjelmointi21_general` kanavalla.
+* Tenttipäivänä **klo 11:00-22:00** keskustelu kurssin kanavilla on kielletty. Kurssin Discord on lukittu ja kanaville ei voi lähettää viestejä.
 
 #### Tehtäväpohjien hakeminen
 
@@ -28,22 +39,22 @@ hide_in_sidebar: true
 2. Valitse TMC-valikosta `My courses`-näkymä.
 3. Paina `Add new course`-nappulaa.
 4. Valitse organisaatioksi `Helsingin yliopisto`.
-5. Valitse kurssiksi `OHJA Python, kesä 2021, Verkkotentti 3`.
+5. Valitse kurssiksi `OHPE Python, syksy 2021, Verkkotentti 1`.
 6. Lataa tehtäväpohjat.
 7. Testaa tehtävien lähettämistä.
 8. Jos saat lähetettyä tehtävät palvelimelle niin olet valmis tekemään tentin, muutoin ole yhteydessä ohjaajaan.
 
 #### Tehtävänannot ja tentin aloittaminen
 
+<notice>
+Älä kysy kurssin kanavilla tehtävänantoihin liittyviä kysymyksiä ennen tentin päättymistä. Toteuta tehtävät oman parhaan tulkintasi mukaan.
+</notice>
+
 * Tenttikysymykset ilmestyvät <a href="https://exams.mooc.fi/fi">https://exams.mooc.fi/fi</a> sivulle tenttipäivänä klo 10:00.
 * Tentti-sivuille kirjaudutaan käyttäen normaaleja mooc.fi-tunnuksia.
-* Valitse kurssiksi `OHJA Python, kesä 2021, Verkkotentti 3`.
-* Jos olet oikeutettu lisäaikaan valitse `OHJA Python, kesä 2021, Verkkotentti 3 (LISÄAIKA)`.
+* Valitse kurssiksi `OHPE Python, syksy 2021, Verkkotentti 1`.
+* Jos olet oikeutettu lisäaikaan valitse `OHPE Python, syksy 2021, Verkkotentti 1 (LISÄAIKA)`.
 * Tenttiaika alkaa siitä hetkestä kun painat `Aloita tentti` -linkkiä.
-
-<notice>
-Älä kysy kurssin-telegram kanavalla tehtävänantoihin liittyviä kysymyksiä ennen tentin päättymistä. Toteuta tehtävät oman parhaan tulkintasi mukaan.
-</notice>
 
 #### Tehtävien palauttaminen
 
@@ -54,6 +65,7 @@ hide_in_sidebar: true
 #### Tentin lopetus
 
 * Ennen lopettamista palauta kaikki tehtävät vielä kertaalleen tenttiajan sisällä.
+* Voit tarkistaa  lähettämiesi tehtävien saapumisen palvelimelle kirjautumalla sivulle [https://tmc.mooc.fi/](https://tmc.mooc.fi/)
 * Voit sulkea tenttitehtävä-sivun kun olet valmis. Muita toimenpiteitä ei vaadita.
 
 #### Tentin tulokset
@@ -71,4 +83,3 @@ hide_in_sidebar: true
 * Tenttivastaukset tarkistetaan plagoinnintunnistusohjelmalla. Huijaus johtaa aina vähintään tenttisuorituksen hylkäämiseen, mahdollisesti myös kurssilta poistamiseen.
 * Tenttikysymykset muistuttavat kurssimateriaalin tehtäviä - tenttiin valmistautumiseksi kannattaa siis kertailla materiaalia.
 * Kurssin tulokset tulevat kokeen jälkeen sähköpostitse opintopisteohjeiden kera.
-* Pulmatilanteiden varalta kurssin ohjaajat päivystävät kurssin [Telegram-kanavalla](https://t.me/python_hy).
