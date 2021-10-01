@@ -42,6 +42,14 @@ const courseSettings = {
       tmcCourse: "python-TVT21F",
       // quizzesId: "5c89b9b6-b8a6-4079-8c4f-a4bbc80b66a4",
     },
+    {
+      tmcOrganization: "haaga-helia",
+      tmcCourse: "haaga-helia-python-test"
+    },
+    {
+      tmcOrganization: "hpjya",
+      tmcCourse: "hpjya-Pythonia",
+    },
   ],
 }
 
