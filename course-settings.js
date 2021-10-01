@@ -44,11 +44,11 @@ const courseSettings = {
     },
     {
       tmcOrganization: "haaga-helia",
-      tmcCourse: "haaga-helia-python-test"
+      tmcCourse: "python-test"
     },
     {
       tmcOrganization: "hpjya",
-      tmcCourse: "hpjya-Pythonia",
+      tmcCourse: "Pythonia",
     },
   ],
 }
