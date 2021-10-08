@@ -28,16 +28,16 @@ hide_in_sidebar: false
 
 #### Tenttipäivänä
 
-<!--text-box variant="hint" name="Huomio">
-<notice>Exams sivulla on ollut ongelmia tänään</notice>
+<text-box variant="hint" name="Huomio">
+<notice>Exams sivulla on teknisiä ongelmia</notice>
 
 Tässä ohje miten sivun saa toimimaan.
 
  Jos et pääse kirjautumaan examsiin, sivut näyttävät oudolle tai painikkeet sivulla eivät toimi:
- * Kokeile ensin päivittää sivu monta kertaa. Jos sivun päivittäminen ei auta kokeile toisella selaimella (Firefox ja Edge on todettu toimiviksi)
- * Jos sivu ei toimi toisellakaan selaimella, kokeile vielä toisellakin selaimella päivittää sivu useamman kerran.
+ * Kokeile ensin päivittää (ladata uudelleen) sivu monta kertaa. Jos sivun päivittäminen ei auta, kokeile sivun avaamista toisella selaimella. Firefox ja Edge on todettu parhaiten toimiviksi. Chromella sivusto toimii huonoiten.
+ * Jos sivu ei toimi toisellakaan selaimella, kokeile vielä silläkin päivittää sivua useamman kerran.
 
-</text-box-->
+</text-box>
 
 * Teknisten ongelmien varalta ohjaaja päivystää tenttipäivänä **klo 09:00-11:00** [Discordissa](https://study.cs.helsinki.fi/discord/join/ohjelmointi21) `ohjelmointi21_general` kanavalla.
 * Tenttipäivänä **klo 11:00-22:00** keskustelu kurssin kanavilla on kielletty. Kurssin Discord on lukittu ja kanaville ei voi lähettää viestejä.
