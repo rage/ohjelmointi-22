@@ -11,6 +11,10 @@ information_page: true
 
 Voit ilmoittaa asiasta kurssikanavalla ohjaajalle tai sähköpostitse kurssin ylläpitäjille osoitteeseen ohjelmoinnin-mooc@helsinki.fi. Kiitos!
 
+### Miksi TMC:ssä ei näy kaikki kurssin osat? Miten saan ladattua kaikkien osien ohjelmointitehtävät?
+
+Seuraava osa tulee automaattisesti TMC:hen ladattavaksi, kun olet saanut 25 % edellisen osan ohjelmointitehtävien pisteistä.
+
 <notice>Alla olevat kysymykset koskevat enimmäkseen avoimen yliopiston opiskelijoita</notice>
 
 ### En voi aloittaa kurssia, koska en tiedä minne ilmoittautua
