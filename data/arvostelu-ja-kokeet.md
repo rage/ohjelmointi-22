@@ -30,6 +30,7 @@ Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 * Lauantai 9.10.21
 * Lauantai 4.12.21
 * Torstai 16.12.21
+* Lauantai 15.1.22
 
 ## Tenttiin osallistuminen
 
