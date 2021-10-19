@@ -79,7 +79,7 @@ Kurssin luentotallenteet päivitetään vuoden 2021 versioihin tiistaisin 7.9.20
     </tr>
     <tr>
       <td>Osa 7</td>
-      <td><a href="https://youtu.be/fHyT49qAwkk">Luentotallenne</a></td>
+      <td><a href="https://youtu.be/35UE8I657pE">Luentotallenne (2021)</a></td>
     </tr>
     <tr>
       <td>Osa 8</td>
