@@ -46,10 +46,6 @@ const courseSettings = {
       tmcOrganization: "haaga-helia",
       tmcCourse: "python-test"
     },
-    {
-      tmcOrganization: "hpjya",
-      tmcCourse: "Pythonia",
-    },
   ],
 }
 
