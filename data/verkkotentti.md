@@ -1,12 +1,12 @@
 ---
 path: "/verkkotentti"
-title: "Verkkotentti 9.10"
+title: "Verkkotentti 30.10"
 information_page: true
 sidebar_priority: 3000
 hide_in_sidebar: false
 ---
 
-## Ohjelmoinnin jatkokurssi
+## Ohjelmoinnin perusteet
 
 #### Tenttiin osallistuminen
 
@@ -16,7 +16,7 @@ hide_in_sidebar: false
 #### Tentin toteutus
 
 * Tentti suoritetaan kurssitehtävien tapaan vscode-ympäristössä.
-* Kurssin tentin voi suorittaa 9.10.2021 **klo 10:00-22:00** välisenä aikana.
+* Kurssin tentin voi suorittaa 30.10.2021 **klo 10:00-22:00** välisenä aikana.
 * Tentti päättyy viimeistään klo 22:00. Jos haluat käyttää tenttiin maksimiajan, **aloita se viimeistään klo 18:00**.
 * Aikaa tentin tekemiseen on **neljä tuntia**. Jos sinulla on erikseen annettu tenttiin lisäaikaa, aikaa on viisi tuntia.
 
@@ -28,7 +28,7 @@ hide_in_sidebar: false
 
 #### Tenttipäivänä
 
-<text-box variant="hint" name="Huomio">
+<!--text-box variant="hint" name="Huomio">
 <notice>Exams sivulla on teknisiä ongelmia</notice>
 
 Tässä ohje miten sivun saa toimimaan.
@@ -37,10 +37,10 @@ Tässä ohje miten sivun saa toimimaan.
  * Kokeile ensin päivittää (ladata uudelleen) sivu monta kertaa. Jos sivun päivittäminen ei auta, kokeile sivun avaamista toisella selaimella. Firefox ja Edge on todettu parhaiten toimiviksi. Chromella sivusto toimii huonoiten.
  * Jos sivu ei toimi toisellakaan selaimella, kokeile vielä silläkin päivittää sivua useamman kerran.
 
-</text-box>
+</text-box-->
 
-* Teknisten ongelmien varalta ohjaaja päivystää tenttipäivänä **klo 09:00-11:00** [Discordissa](https://study.cs.helsinki.fi/discord/join/ohjelmointi21) `ohjelmointi21_general` kanavalla.
-* Tenttipäivänä **klo 11:00-22:00** keskustelu kurssin kanavilla on kielletty. Kurssin Discord on lukittu ja kanaville ei voi lähettää viestejä.
+* Teknisten ongelmien varalta ohjaaja päivystää tenttipäivänä **klo 10:00-14:00** [Discordissa](https://study.cs.helsinki.fi/discord/join/ohjelmointi21) `ohjelmointi21_general` kanavalla.
+* Tenttipäivänä **klo 14:00-22:00** keskustelu kurssin kanavilla on kielletty. Kurssin Discord on lukittu ja kanaville ei voi lähettää viestejä.
 
 #### Tehtäväpohjien hakeminen
 
@@ -50,7 +50,7 @@ Tässä ohje miten sivun saa toimimaan.
 2. Valitse TMC-valikosta `My courses`-näkymä.
 3. Paina `Add new course`-nappulaa.
 4. Valitse organisaatioksi `Helsingin yliopisto`.
-5. Valitse kurssiksi `OHJA Python, syksy 2021, Verkkotentti 1`.
+5. Valitse kurssiksi `OHPE Python, syksy 2021, Verkkotentti 2`.
 6. Lataa tehtäväpohjat.
 7. Testaa tehtävien lähettämistä.
 8. Jos saat lähetettyä tehtävät palvelimelle niin olet valmis tekemään tentin, muutoin ole yhteydessä ohjaajaan.
@@ -63,8 +63,8 @@ Tässä ohje miten sivun saa toimimaan.
 
 * Tenttikysymykset ilmestyvät <a href="https://exams.mooc.fi/fi">https://exams.mooc.fi/fi</a> sivulle tenttipäivänä klo 10:00.
 * Tentti-sivuille kirjaudutaan käyttäen normaaleja mooc.fi-tunnuksia.
-* Valitse kurssiksi `OHJA Python, syksy 2021, Verkkotentti 1`.
-* Jos olet oikeutettu lisäaikaan valitse `OHJA Python, syksy 2021, Verkkotentti 1 (LISÄAIKA)`.
+* Valitse kurssiksi `OHPE Python, syksy 2021, Verkkotentti 2`.
+* Jos olet oikeutettu lisäaikaan valitse `OHPE Python, syksy 2021, Verkkotentti 2 (LISÄAIKA)`.
 * Tenttiaika alkaa siitä hetkestä kun painat `Aloita tentti` -linkkiä.
 
 #### Tehtävien palauttaminen
@@ -76,7 +76,7 @@ Tässä ohje miten sivun saa toimimaan.
 #### Tentin lopetus
 
 * Ennen lopettamista palauta kaikki tehtävät vielä kertaalleen tenttiajan sisällä.
-* Voit tarkistaa  lähettämiesi tehtävien saapumisen palvelimelle kirjautumalla sivulle [https://tmc.mooc.fi/](https://tmc.mooc.fi/login?return_to=%2Forg%2Fhy%2Fcourses%2F907)
+* Voit tarkistaa  lähettämiesi tehtävien saapumisen palvelimelle kirjautumalla sivulle [https://tmc.mooc.fi/org/hy/courses/925](https://tmc.mooc.fi/login?return_to=%2Forg%2Fhy%2Fcourses%2F925)
 * Voit sulkea tenttitehtävä-sivun kun olet valmis. Muita toimenpiteitä ei vaadita.
 
 #### Tentin tulokset
