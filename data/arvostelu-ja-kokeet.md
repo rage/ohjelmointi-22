@@ -19,7 +19,7 @@ Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 * Lauantai 2.10.21
 * Lauantai 30.10.21
 * Lauantai 27.11.21
-* Tammikuu 2022, **päivämäärä ilmoitetaan myöhemmin**
+* Lauantai 15.1.22
 
 ### Ohjelmoinnin jatkokurssi koepäivät 2021
 
