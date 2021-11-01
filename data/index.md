@@ -38,7 +38,7 @@ Kurssi on auki vuoden 2021 loppuun asti. Tehtäviä voi tehdä omaan tahtiin.
 
 <strong>Huom!</strong> Tiistaina 12.10. ei ole luentoa, korvaava luento järjestetään zoomissa <b>torstaina 14.10. klo 12.15!</b>
 
-Kurssin luentoja voi seurata livenä tiistaisin klo 10.15 7.9.2021 alkaen <a href="https://helsinki.zoom.us/j/64966416918">zoomissa</a>.
+Jatkokurssin luentoja voi seurata livenä tiistaisin klo 10.15 2.11.2021 alkaen <a href="https://helsinki.zoom.us/j/68969906191?pwd=OTVkczhQYXcreWlnV1JlbHJWb1JoUT09">zoomissa</a>. Salasana, jos Zoom sitä kysyy, on <strong>12345</strong>.
 
 ## Luentotallenteet
 
