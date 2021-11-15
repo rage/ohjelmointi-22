@@ -369,7 +369,7 @@ paras keskiarvo 4.5 Liisa
 
 <programming-exercise name="Kirjainruudukko" tmcname="osa05-21_kirjainruudukko">
 
-Tämän osan huipentaa suhteellisen haastava ongelmanratkaisua vaativa tehtävä, jonka voi tarkaista monella eri tavalla. Vaikka tehtävä on tupleja käsittelevässä luvussa, tupleja tässä tuskin kannattaa käyttää.
+Tämän osan huipentaa suhteellisen haastava ongelmanratkaisua vaativa tehtävä, jonka voi ratkaista monella eri tavalla. Vaikka tehtävä on tupleja käsittelevässä luvussa, tupleja tässä tuskin kannattaa käyttää.
 
 Tee ohjelma, joka tulostaa kirjainruudukon oheisten esimerkkien mukaisesti. Voit olettaa, että kerroksia on enintään 26.
 
