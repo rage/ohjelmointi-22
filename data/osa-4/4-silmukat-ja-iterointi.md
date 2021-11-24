@@ -459,7 +459,7 @@ print(tulos)
 
 <programming-exercise name='Listan lyhin' tmcname='osa04-18b_listan_lyhin'>
 
-Tee funktio `lyhin`, joka saa parametriksi listan merkkijonoja. Funktio tulostaa listan lyhimmän merkkijonon. Jos samanpituisia on useita (testeissä näin ei ole), voi funktio palauttaa niistä minkä vaan. Funktio voi olettaa että listalla ei ole tyhjiä eli nollan pituisia merkkijonoja.
+Tee funktio `lyhin`, joka saa parametriksi listan merkkijonoja. Funktio palauttaa listan lyhimmän merkkijonon. Jos samanpituisia on useita (testeissä näin ei ole), voi funktio palauttaa niistä minkä vaan. Funktio voi olettaa että listalla ei ole tyhjiä eli nollan pituisia merkkijonoja.
 
 
 ```python
