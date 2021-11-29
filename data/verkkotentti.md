@@ -1,12 +1,12 @@
 ---
 path: "/verkkotentti"
-title: "Verkkotentti 27.11."
+title: "Verkkotentti 4.12."
 information_page: true
 sidebar_priority: 3000
 hide_in_sidebar: false
 ---
 
-## Ohjelmoinnin perusteet
+# Ohjelmoinnin jatkokurssi
 
 #### Tenttiin osallistuminen
 
@@ -16,7 +16,7 @@ hide_in_sidebar: false
 #### Tentin toteutus
 
 * Tentti suoritetaan kurssitehtävien tapaan vscode-ympäristössä.
-* Kurssin tentin voi suorittaa 27.11.2021 **klo 10:00-22:00** välisenä aikana.
+* Kurssin tentin voi suorittaa 4.12.2021 **klo 10:00-22:00** välisenä aikana.
 * Tentti päättyy viimeistään klo 22:00. Jos haluat käyttää tenttiin maksimiajan, **aloita se viimeistään klo 18:00**.
 * Aikaa tentin tekemiseen on **neljä tuntia**. Jos sinulla on erikseen annettu tenttiin lisäaikaa, aikaa on viisi tuntia.
 
@@ -50,7 +50,7 @@ Tässä ohje miten sivun saa toimimaan.
 2. Valitse TMC-valikosta `My courses`-näkymä.
 3. Paina `Add new course`-nappulaa.
 4. Valitse organisaatioksi `Helsingin yliopisto`.
-5. Valitse kurssiksi `OHPE Python, syksy 2021, Verkkotentti 3`.
+5. Valitse kurssiksi `OHJA Python, syksy 2021, Verkkotentti 2`.
 6. Lataa tehtäväpohjat.
 7. Testaa tehtävien lähettämistä.
 8. Jos saat lähetettyä tehtävät palvelimelle niin olet valmis tekemään tentin, muutoin ole yhteydessä ohjaajaan.
@@ -63,20 +63,20 @@ Tässä ohje miten sivun saa toimimaan.
 
 * Tenttikysymykset ilmestyvät <a href="https://exams.mooc.fi/fi">https://exams.mooc.fi/fi</a> sivulle tenttipäivänä klo 10:00.
 * Tentti-sivuille kirjaudutaan käyttäen normaaleja mooc.fi-tunnuksia.
-* Valitse kurssiksi `OHPE Python, syksy 2021, Verkkotentti 3`.
-* Jos olet oikeutettu lisäaikaan valitse `OHPE Python, syksy 2021, Verkkotentti 3 (LISÄAIKA)`.
+* Valitse kurssiksi `OHJA Python, syksy 2021, Verkkotentti 2`.
+* Jos olet oikeutettu lisäaikaan valitse `OHJA Python, syksy 2021, Verkkotentti 2 (LISÄAIKA)`.
 * Tenttiaika alkaa siitä hetkestä kun painat `Aloita tentti` -linkkiä.
 
 #### Tehtävien palauttaminen
 
 * Tehtävät palautetaan samalla tavalla kuin kurssitehtävät.
 * Tenttitehtävissä **ei ole automaattisia testejä**.
-* Tenttiajan ulkopuolella tehdyt palautukset johtavat tenttisuorituksen hylkäämiseen.
+* Tenttiajan päättymisen jälkeen tehdyt palautukset johtavat tenttisuorituksen hylkäämiseen.
 
 #### Tentin lopetus
 
 * Ennen lopettamista palauta kaikki tehtävät vielä kertaalleen tenttiajan sisällä.
-* Voit tarkistaa  lähettämiesi tehtävien saapumisen palvelimelle kirjautumalla sivulle [https://tmc.mooc.fi/org/hy/courses/939](https://tmc.mooc.fi/login?return_to=%2Forg%2Fhy%2Fcourses%2F939)
+* Voit tarkistaa  lähettämiesi tehtävien saapumisen palvelimelle kirjautumalla sivulle [https://tmc.mooc.fi/org/hy/courses/945](https://tmc.mooc.fi/login?return_to=%2Forg%2Fhy%2Fcourses%2F945)
 * Voit sulkea tenttitehtävä-sivun kun olet valmis. Muita toimenpiteitä ei vaadita.
 
 #### Tentin tulokset
