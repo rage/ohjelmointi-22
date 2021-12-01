@@ -46,6 +46,10 @@ const courseSettings = {
       tmcOrganization: "haaga-helia",
       tmcCourse: "python-test"
     },
+    {
+      tmcOrganization: "keravanlukio",
+      tmcCourse: "tkt01-python-2021-22",
+    }
   ],
 }
 
