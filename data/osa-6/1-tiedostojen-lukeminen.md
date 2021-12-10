@@ -981,5 +981,5 @@ Laivasillankatu Hietalahdentori 1.478708873076181
 </programming-exercise>
 
 
-<quiz id="17b6b1dc-bfe4-5a4b-aed1-2a456fc53a3e"></quiz>
+<quiz id="69f714bf-25e0-551c-bccd-6337dc38048f"></quiz>
 

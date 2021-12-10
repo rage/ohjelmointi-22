@@ -384,4 +384,4 @@ Korjausehdotukset etsitään standardikirjaston moduulin [difflib](https://docs.
 
 </programming-exercise>
 
-<quiz id="311e3116-a763-50b5-b79e-056fdccb3394"></quiz>
+<quiz id="7589d44e-7fd4-5642-b02f-0bdb736bbe88"></quiz>

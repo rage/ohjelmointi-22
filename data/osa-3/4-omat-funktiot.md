@@ -463,8 +463,8 @@ uayba
 
 </in-browser-programming-exercise>
 
-<quiz id="b04f1d8b-d207-5a8c-abbd-e42a3af7c12d"></quiz>
+<quiz id="e6ff56d3-7887-54a3-8e69-2f3f6a8fa97b"></quiz>
 
 Vastaa lopuksi osion loppukyselyyn:
 
-<quiz id="a2c48fe9-3201-57c7-9ff3-4ef2b9aecab5"></quiz>
+<quiz id="17a1c406-ed96-5740-9031-ef2f87f86482"></quiz>

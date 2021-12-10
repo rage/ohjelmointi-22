@@ -307,4 +307,4 @@ Annoit saman sanan kahdesti.
 
 </in-browser-programming-exercise>
 
-<quiz id="82f644fe-5d89-5153-842a-11d5d11bc059"></quiz>
+<quiz id="81051833-926c-5437-a23e-a7f4b67f8b64"></quiz>

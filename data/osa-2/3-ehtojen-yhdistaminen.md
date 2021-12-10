@@ -397,4 +397,4 @@ Vero: 1950.0 euroa
 
 </in-browser-programming-exercise>
 
-<quiz id="6bfd7e0d-2998-5697-80dc-418703fabbbf"></quiz>
+<quiz id="4d9f3d90-3317-5150-8c8e-767ab86642a4"></quiz>

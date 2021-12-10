@@ -530,5 +530,5 @@ Tiiliskivi (4 kg)
 
 Vastaa lopuksi osion loppukyselyyn:
 
-<quiz id="c5152550-712f-52c2-9188-adacb8f455ed"></quiz>
+<quiz id="55ccc436-b4fb-534f-91aa-6cc08d3a1b1d"></quiz>
 

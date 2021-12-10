@@ -518,8 +518,8 @@ Juuret ovat 2.0 ja -4.0
 
 Kertauskysely tämän osan asioihin liittyen:
 
-<quiz id="bc7e500f-a91e-5709-8ae6-34637ff01737"></quiz>
+<quiz id="3abeb279-4562-517c-add0-0a66275e8cc5"></quiz>
 
 Vastaa lopuksi kyselyyn tämän viikon materiaaleista. Saat kyselyyn vastaamisesta yhden pisteen:
 
-<quiz id="1d2102eb-0c2f-5185-a240-9814db357c8a"></quiz>
+<quiz id="f3ed3da8-8918-5193-945a-701241ea4340"></quiz>

@@ -71,15 +71,15 @@ Arvioi peliä esimerkiksi seuraavien kriteerien mukaan:
 
 Hyvään arvioon kuuluu yleensä se, että löydät ohjelmasta sekä hyviä puolia että jotain kehitettävää.
 
-<quiz id="a3101454-6036-54b2-9b78-99064a8c9efe"></quiz>
+<quiz id="e55a4976-1b9a-56d4-b6f1-2441036c018f"></quiz>
 
 ## Loppukysely
 
 Vastaa ensin osion loppukyselyyn...
 
-<quiz id="45f0730f-4793-5430-835a-3e87aeaa23c2"></quiz>
+<quiz id="59cafdbf-c505-5738-b74c-5c4240b939e5"></quiz>
 
 ...ja sitten vielä koko kurssin loppukyselyyn:
 
-<quiz id="bed259bc-56d7-5acb-91bf-3f5d174923db"></quiz>
+<quiz id="5a2867b7-9a33-5712-a907-2de813954d92"></quiz>
 

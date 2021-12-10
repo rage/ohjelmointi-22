@@ -706,4 +706,4 @@ Tämä kertoo funktion käyttäjälle, että funktion on tarkoitus palauttaa mer
 
 Huomaa kuitenkin, että tyyppivihje ainoastaan neuvoo, mikä tyypin tulisi olla, mutta ei valvo sitä. Jos funktiolle annetaan väärän tyyppinen parametri tai se palauttaa väärän tyyppisen arvon, funktio suoritetaan kuitenkin, mutta se toimii mahdollisesti väärin.
 
-<quiz id="fb289a3b-288a-5a9f-b3d2-07ceae5866ea"></quiz>
+<quiz id="a70dcc9b-cfc5-578e-bfdd-c6a4a97761c7"></quiz>

@@ -280,8 +280,8 @@ def main():
 main()
 ```
 
-<quiz id="8aed7673-7e0f-548b-b35b-939899b8facd"></quiz>
+<quiz id="082c5e46-3dfc-52ec-a5ef-fc70fb4b73a5"></quiz>
 
 Vastaa lopuksi osion loppukyselyyn:
 
-<quiz id="323f1cb2-bc26-5ede-9922-20ed17064882"></quiz>
+<quiz id="c41076a0-e96c-51e5-958b-b91ba14cd5fe"></quiz>
