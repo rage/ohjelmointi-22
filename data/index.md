@@ -32,7 +32,7 @@ Käytä ensisijaisesti viestintävälineenä Discordia. Kurssin opettajiin voit 
 
 ## Aikataulu
 
-Kurssi on auki vuoden 2021 loppuun asti. Tehtäviä voi tehdä omaan tahtiin.
+Kurssi on auki vuoden 2022 loppuun asti. Tehtäviä voi tehdä omaan tahtiin.
 
 ## Luennot
 

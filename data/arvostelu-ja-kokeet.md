@@ -8,29 +8,23 @@ sidebar_priority: 4000
 
 Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 
-### Ohjelmoinnin perusteet koepäivät 2021
+### Ohjelmoinnin perusteet koepäivät 2022
 
-* Lauantai 6.3.21
-* Lauantai 24.4.21
-* Lauantai 15.5.21
-* Lauantai 5.6.21 (PERUTTU)
-* Lauantai 3.7.21
-* Lauantai 7.8.21
-* Lauantai 2.10.21
-* Lauantai 30.10.21
-* Lauantai 27.11.21
-* Lauantai 15.1.22
+* Lauantai 5.3.22
+* Lauantai 14.5.22
+* Lauantai 2.7.22
+* Lauantai 6.8.22
+* Lauantai 1.10.22
+* Lauantai 26.11.22
 
-### Ohjelmoinnin jatkokurssi koepäivät 2021
+### Ohjelmoinnin jatkokurssi koepäivät 2022
 
-* Lauantai 8.5.21
-* Lauantai 5.6.21
-* Lauantai 3.7.21
-* Lauantai 14.8.21
-* Lauantai 9.10.21
-* Lauantai 4.12.21
-* Torstai 16.12.21
-* Lauantai 15.1.22
+* Lauantai 7.5.22
+* Lauantai 4.6.22
+* Lauantai 2.7.22
+* Lauantai 13.8.22
+* Lauantai 8.10.22
+* Torstai 15.12.22
 
 ## Tenttiin osallistuminen
 
