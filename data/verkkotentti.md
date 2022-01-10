@@ -24,7 +24,7 @@ hide_in_sidebar: true
 
 * Lue nämä ohjeet huolellisesti
 * Lataa tehtäväpohjat ja testaa tehtävien palauttamista [alla olevan ohjeen mukaisesti](#tehtavapohjien-hakeminen)
-* Jos sinulla on ongelmia tehtäväpohjien lataamisessa tai palauttamisessa, muita teknisiä ongelmia tai muuta kysyttävää tentin järjestelyistä, voit kysyä apua kurssin [Discordissa](https://study.cs.helsinki.fi/discord/join/ohjelmointi21)
+* Jos sinulla on ongelmia tehtäväpohjien lataamisessa tai palauttamisessa, muita teknisiä ongelmia tai muuta kysyttävää tentin järjestelyistä, voit kysyä apua kurssin [Discordissa](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc)
 
 #### Tenttipäivänä
 
@@ -39,7 +39,7 @@ Tässä ohje miten sivun saa toimimaan.
 
 </text-box-->
 
-* Teknisten ongelmien varalta ohjaaja päivystää tenttipäivänä **klo 10:00-12:00** [Discordissa](https://study.cs.helsinki.fi/discord/join/ohjelmointi21) `ohjelmointi21_general` kanavalla.
+* Teknisten ongelmien varalta ohjaaja päivystää tenttipäivänä **klo 10:00-12:00** [Discordissa](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc) `ohjelmoinnin_mooc_general` kanavalla.
 * Tenttipäivänä **klo 12:00-22:00** keskustelu kurssin kanavilla on kielletty. Kurssin Discord on lukittu ja kanaville ei voi lähettää viestejä.
 
 #### Tehtäväpohjien hakeminen
