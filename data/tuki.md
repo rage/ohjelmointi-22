@@ -13,4 +13,4 @@ Kurssilla järjestetään ohjausta discordissa ja Kumpulan kampuksella.
 
 Discord on viestintäsovellus, josta saat lisätietoa [täältä](https://discord.com/).
 
-Löydät kurssin kanavat [täältä](https://study.cs.helsinki.fi/discord/join/ohjelmointi21).
+Löydät kurssin kanavat [täältä](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc).
