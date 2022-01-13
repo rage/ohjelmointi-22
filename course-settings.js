@@ -44,7 +44,7 @@ const courseSettings = {
     },
     {
       tmcOrganization: "haaga-helia",
-      tmcCourse: "python-2022"
+      tmcCourse: "python-2022",
     },
     {
       tmcOrganization: "keravanlukio",
