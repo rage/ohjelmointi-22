@@ -5,6 +5,8 @@ hidden: false
 information_page: true
 ---
 
+<notice>Ohjaus alkaa tiistaina 18.1.2022.</notice>
+
 Kurssilla järjestetään ohjausta Discordissa.
 
 #### Discord
