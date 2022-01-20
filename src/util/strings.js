@@ -8,6 +8,16 @@ export function nthIndex(str, pat, n) {
   return i
 }
 
+export function extractPartNumberFromPath(string) {
+  // Assumes path is formatted /part-[num]]/...
+  return parseInt(string.substring(string.indexOf('-') + 1, nthIndex(string, '/', 2)))
+}
+
+export function extractSubpartNumberFromPath(string) {
+  // Assumes path is formatted /part-[num]/[num]-...
+  return parseInt(string.substring(nthIndex(string, '/', 2) + 1, nthIndex(string, '-', 2)))
+}
+
 export function capitalizeFirstLetter(string) {
   return string.charAt(0).toUpperCase() + string.slice(1)
 }

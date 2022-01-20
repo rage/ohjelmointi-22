@@ -130,11 +130,15 @@ const Sidebar = (props) => {
       }),
     )
 
-  let coursePartEdges = edges.filter((o) => !o.information_page && !o.upcoming)
+  let coursePartEdges = edges.filter((o) => !o.information_page && !o.course_info_page && !o.upcoming)
 
   let informationPageEdges = edges
     .filter((o) => o.information_page)
     .sort((a, b) => b.sidebar_priority - a.sidebar_priority)
+
+  let courseInfoPageEdges = edges
+     .filter((o) => o.course_info_page)
+     .sort((a, b) => b.sidebar_priority - a.sidebar_priority)
 
   let upcomingPageEdges = edges
     .filter((o) => o.upcoming)
@@ -145,7 +149,8 @@ const Sidebar = (props) => {
       separator_after: o.separator_after,
     }))
 
-  let content = informationPageEdges
+  let content = courseInfoPageEdges
+    .concat(informationPageEdges)
     .concat(coursePartEdges)
     .concat(upcomingPageEdges)
 
@@ -210,6 +215,7 @@ const query = graphql`
           frontmatter {
             title
             information_page
+            course_info_page
             path
             hidden
             separator_after
