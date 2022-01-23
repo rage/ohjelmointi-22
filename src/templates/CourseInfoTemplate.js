@@ -81,6 +81,8 @@ export const pageQuery = graphql`
           frontmatter {
             path
             title
+            overview
+            hidden
           }
           moocfiExercises {
             id
