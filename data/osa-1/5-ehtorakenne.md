@@ -496,7 +496,7 @@ Ohjelma tulostaa:
 
 </sample-output>
 
-Kirjoita ohjelma, joka ratkaisee toisen asteen yhtälön ax²+bx+c. Ohjelmalle annetaan arvot a, b ja c, ja sen tulee laskea juuret (eli ratkaisut) kaavalla
+Kirjoita ohjelma, joka ratkaisee toisen asteen yhtälön ax²+bx+c=0. Ohjelmalle annetaan arvot a, b ja c, ja sen tulee laskea juuret (eli ratkaisut) kaavalla
 
 x = (-b ± sqrt(b²-4ac))/(2a).
 
