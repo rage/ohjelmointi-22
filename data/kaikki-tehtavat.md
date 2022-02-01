@@ -1,7 +1,7 @@
 ---
 path: "/kaikki-tehtavat"
 title: "Kaikki tehtävät"
-hidden: true
+hidden: false
 course_info_page: true
 ---
 
