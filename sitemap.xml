@@ -84,6 +84,7 @@
 <url> <loc>https://ohjelmointi-22.mooc.fi/osa-1/2-tietoa-kayttajalta</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ohjelmointi-22.mooc.fi/osa-1/1-ohjelmoinnin-aloittaminen</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ohjelmointi-22.mooc.fi/osa-1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ohjelmointi-22.mooc.fi/kaikki-tehtavat</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ohjelmointi-22.mooc.fi/arvostelu-ja-kokeet</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ohjelmointi-22.mooc.fi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ohjelmointi-22.mooc.fi/credits/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
