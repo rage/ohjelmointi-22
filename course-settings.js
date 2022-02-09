@@ -49,6 +49,10 @@ const courseSettings = {
     {
       tmcOrganization: "keravanlukio",
       tmcCourse: "tkt01-python-2021-22",
+    },
+    {
+      tmcOrganization: "hellu",
+      tmcCourse: "python-2022",
     }
   ],
 }
