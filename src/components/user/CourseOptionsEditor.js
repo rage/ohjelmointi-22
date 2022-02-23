@@ -159,7 +159,6 @@ class CourseOptionsEditor extends React.Component {
   }
 
   handleHonorCodeCheckbox = (e) => {
-    console.log(e.target.checked)
     this.setState(
       {
         honor_code: e.target.checked,
