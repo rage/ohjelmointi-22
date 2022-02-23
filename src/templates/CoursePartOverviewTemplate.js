@@ -39,7 +39,8 @@ export default class CoursePartOverviewTemplate extends React.Component {
 
     let userInfo = await getCachedUserDetails()
     const research = userInfo?.extra_fields?.research
-    if (research === undefined) {
+    const honorCode = userInfo?.extra_fields?.honor_code
+    if (research === undefined || honorCode === undefined || !honorCode) {
       navigate("/missing-info")
     }
   }

@@ -70,6 +70,7 @@ class CourseOptionsEditor extends React.Component {
         digital_education_for_all:
           data.extra_fields?.digital_education_for_all === "t",
         use_course_variant: useCourseVariant,
+        honor_code: data.extra_fields?.honor_code === "t",
         course_variant: courseVariant,
         course_variants: variants,
         marketing: data.extra_fields?.marketing === "t",
@@ -88,6 +89,7 @@ class CourseOptionsEditor extends React.Component {
     let extraFields = {
       digital_education_for_all: this.state.digital_education_for_all,
       use_course_variant: this.state.use_course_variant,
+      honor_code: this.state.honor_code,
       course_variant: this.state.course_variant,
       marketing: this.state.marketing,
       research: this.state.research,
@@ -119,6 +121,7 @@ class CourseOptionsEditor extends React.Component {
     first_name: undefined,
     last_name: undefined,
     use_course_variant: undefined,
+    honor_code: undefined,
     course_variant: "",
     course_variants: [],
     email: undefined,
@@ -155,6 +158,18 @@ class CourseOptionsEditor extends React.Component {
     )
   }
 
+  handleHonorCodeCheckbox = (e) => {
+    console.log(e.target.checked)
+    this.setState(
+      {
+        honor_code: e.target.checked,
+      },
+      () => {
+        this.validate()
+      },
+    )
+  }
+
   handleFocus = (e) => {
     const name = e.target.name
     this.setState({ focused: name })
@@ -168,8 +183,11 @@ class CourseOptionsEditor extends React.Component {
     this.setState((prev) => {
       const researchNotAnswered = prev.research === undefined
       const missingVariant = prev.use_course_variant && !prev.course_variant
+      const missingHonorCode = prev.honor_code === undefined || !prev.honor_code
 
-      return { error: researchNotAnswered || missingVariant }
+      return {
+        error: researchNotAnswered || missingVariant || missingHonorCode,
+      }
     })
   }
 
@@ -387,6 +405,44 @@ class CourseOptionsEditor extends React.Component {
             </Loading>
           </Row>
 
+          <h2>{this.props.t("honorCodeTitle")}</h2>
+
+          <p>{this.props.t("honorCode1")}</p>
+          <p>{this.props.t("honorCode2")}</p>
+          <ul>
+            <li>{this.props.t("honorCode3")}</li>
+            <li>{this.props.t("honorCode4")}</li>
+            <li>{this.props.t("honorCode5")}</li>
+            <li>{this.props.t("honorCode6")}</li>
+            <li>{this.props.t("honorCode7")}</li>
+            <li>{this.props.t("honorCode8")}</li>
+          </ul>
+          <p>
+            {this.props.t("honorCode9")}
+            <OutboundLink
+              href={this.props.t("honorCode10OutboundLink")}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {this.props.t("honorCode10OutboundLinkText")}
+            </OutboundLink>
+            {this.props.t("honorCode11")}
+          </p>
+          <Row>
+            <Loading loading={this.state.loading} heightHint="30px">
+              <FormControlLabel
+                control={
+                  <Checkbox
+                    checked={this.state.honor_code}
+                    onChange={this.handleHonorCodeCheckbox}
+                    name="honor_code"
+                    value="1"
+                  />
+                }
+                label={this.props.t("honorCodeAgree")}
+              />
+            </Loading>
+          </Row>
           <Row>
             <Button
               onClick={this.onClick}

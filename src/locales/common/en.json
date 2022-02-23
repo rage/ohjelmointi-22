@@ -120,5 +120,19 @@
     "difficultyHeader": "Difficulty: -",
     "difficultyHeader1": "Difficulty: Easy",
     "difficultyHeader2": "Difficulty: Mediocre",
-    "difficultyHeader3": "Difficulty: Hard"
+    "difficultyHeader3": "Difficulty: Hard",
+    "honorCodeTitle": "Mooc.fi Honor Code",
+    "honorCode1": "Courses on the Mooc.fi platform are open to anyone. People working on the courses have put in a lot of effort to make it possible for learners to improve their skills and learn something new together with countless other participants. All activity on the platform is based on the idea that learners are motivated to study the course contents honestly and according to good academic practice.",
+    "honorCode2": "Every course participant is considered a part of the Mooc.fi team and agrees to follow our honor code:",
+    "honorCode3": "I will complete all graded assignments (exercises and exams) myself. I will not use answers made by others, and I will not allow anyone to submit their answers using my identity.",
+    "honorCode4": "I will cite and reference any ideas or materials used in support of my work when applicable. I will not present someone else’s ideas as my own.",
+    "honorCode5": "I will not collaborate with others unless it is explicitly encouraged. Thus, I will not compare answers, work as a team, or share my answers with others.",
+    "honorCode6": "I will do nothing that would dishonestly improve my results or affect the results of others in a positive or negative way.",
+    "honorCode7": "I will be polite and respectful whenever I am in contact with other learners or staff.",
+    "honorCode8": "I will inform the administration if I suspect anyone of violating the honor code and engaging in cheating.",
+    "honorCode9": "Violations of the honor code will be handled according to the ",
+    "honorCode10OutboundLinkText": "University of Helsinki guidelines regarding cheating and plagiarism",
+    "honorCode10OutboundLink": "https://studies.helsinki.fi/instructions/article/what-cheating-and-plagiarism",
+    "honorCode11": ". In addition, the Mooc.fi administration reserves the right to reset any progress in the Mooc.fi course material, prevent the downloading of any previously awarded certificates, and suspend Mooc.fi user accounts. ",
+    "honorCodeAgree": "I agree to follow the honor code. "
 }
