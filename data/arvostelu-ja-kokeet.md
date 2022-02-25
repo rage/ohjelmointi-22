@@ -40,7 +40,6 @@ Kurssilla saa osallistua halutessaan useampaan kokeeseen. Opintorekisteriin jä�
 * Tentin voi suorittaa koepäivänä **klo 10:00-22:00** välisenä aikana.
 * Tentti päättyy viimeistään klo 22:00. Jos haluat käyttää tenttiin maksimiajan, **aloita se viimeistään klo 18:00**.
 * Aikaa tentin tekemiseen on **neljä tuntia**. Jos sinulla on erikseen annettu tenttiin lisäaikaa, aikaa on viisi tuntia.
-* Tenttikysymykset ilmestyvät <a href="https://exams.mooc.fi/fi">https://exams.mooc.fi/fi</a> sivulle tenttipäivänä klo 10:00.
 * Tehtävät palautetaan samalla tavalla kuin kurssitehtävät.
 
 Tarkemmat ohjeet julkaistaan näillä sivuilla ennen koepäivää.
