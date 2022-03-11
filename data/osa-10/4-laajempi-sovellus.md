@@ -38,7 +38,7 @@ Olio-ohjelmointi tarjoaa funktioita jossain määrin ilmaisuvoimaisemman ja joid
 
 ## Esimerkki: puhelinluettelo
 
-Miten ohjelma sitten tulisi jakaa luokkiin ja olioihin? Kysymys ei ole helppo, ja asiaa on helpompi pohdiskella konkreettisen esimerkin kautta. Toteutetaan esimerkkinä olio-ohjelmointia hyödyntäen hieman samantyylinen puhelinluettelo, joka oli aiheena ohjelmoinnin perusteiden viidennen osan [tehtävässä](osa-5/3-dictionary#programming-exercise-puhelinluettelo-versio-2).
+Miten ohjelma sitten tulisi jakaa luokkiin ja olioihin? Kysymys ei ole helppo, ja asiaa on helpompi pohdiskella konkreettisen esimerkin kautta. Toteutetaan esimerkkinä olio-ohjelmointia hyödyntäen hieman samantyylinen puhelinluettelo, joka oli aiheena ohjelmoinnin perusteiden viidennen osan [tehtävässä](https://ohjelmointi-22.mooc.fi/osa-5/3-dictionary#programming-exercise-puhelinluettelo-versio-2).
 
 Separation of concerns -periaatetta noudatellen koodi tulee jakaa osiin, joista kukin käsittelee omaa asiaansa. Olio-ohjelmoinnin piirissä tätä periaatetta ilmentää niin sanottu [yhden vastuun (single responsibility)](https://en.wikipedia.org/wiki/Single-responsibility_principle) -periaate. Ei mennä sen tarkemmin periaatteen yksityiskohtiin, mutta maalaisjärjellä ajatellen periaatteen nimi jo kertoo mistä on kyse: _yksittäisen luokan olioiden tulisi olla vastuussa yhdestä asiasta_.
 
