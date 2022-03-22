@@ -388,7 +388,7 @@ print(k3.vaikein_reitti())
 <sample-output>
 
 Olhava, 3 reittiä, vaikein 6B
-Nalkkilan slabi 4
+Nalkkilan släbi 4
 Smooth operator, pituus 9 metriä, grade 7A
 
 </sample-output>
