@@ -182,7 +182,7 @@ Tässä haluamme pitää ohjelman suorituksen aikana kirjaa siitä, montako kert
 
 ## Tiedon välittäminen funktiosta toiseen revisited
 
-Jos ohjelma koostuu useista funktioista, nousee esiin kysymys miten tieoa siirretään funktiosta toiseen.
+Jos ohjelma koostuu useista funktioista, nousee esiin kysymys miten tietoa siirretään funktiosta toiseen.
 
 Seuraavassa on jo pari osaa sitten nähty esimerkki ohjelmasta, joka lukee käyttäjältä joukon kokonaislukuarvoja. Sen jälkeen ohjelma tulostaa arvot ja tekee niille vielä "analyysin". Ohjelma on jaettu kolmeen erilliseen funktioon:
 
@@ -206,10 +206,10 @@ def tulosta(luvut: list):
 
 def analysoi(luvut: list):
     ka = sum(luvut) / len(luvut)
-    return f"lukuja yhtensä {len(luvut)}, kesikarvo {ka}, pienin {min(luvut)} ja suurin {max(luvut)}"
+    return f"lukuja yhteensä {len(luvut)}, keskikarvo {ka}, pienin {min(luvut)} ja suurin {max(luvut)}"
 
 # funktioita käyttävä  "pääohjelma"
-syoteet = lue_kayttajalta(5)
+syotteet = lue_kayttajalta(5)
 tulosta(syotteet)
 analyysin_tulos = analysoi(syotteet)
 print(analyysin_tulos)
@@ -231,20 +231,20 @@ luvut ovat:
 -32
 99
 -53
-lukuja yhtensä 5, kesikarvo 11.6, pienin- 53 ja suurin 99
+lukuja yhteensä 5, keskikarvo 11.6, pienin- 53 ja suurin 99
 
 </sample-output>
 
-Perusperiaatteena ohjelmassa on se, että pääohjelma "tallettaa" ohjelman käsittelemän tiedon, eli tässä tapauksessa käyttäjän syöttämät luvut muuttujassa `syoteet`.
+Perusperiaatteena ohjelmassa on se, että pääohjelma "tallettaa" ohjelman käsittelemän tiedon, eli tässä tapauksessa käyttäjän syöttämät luvut muuttujassa `syotteet`.
 
 Jos lukuja on tarve käsitellä jossain funktiossa, ne välitetään sinne parametrina. Näin tapahtuu funktioissa `tulosta` ja `analysoi`.
-Jos taas funktio tuottaa tietoa, jota muut ohjelman osat tarvitsevat, palautta funktio datan returnilla. Näin tekevät käyttäjän syötteen lukeva funktio `lue_kayttajalta` sekä analyysin tekevä funktio `analysoi`.
+Jos taas funktio tuottaa tietoa, jota muut ohjelman osat tarvitsevat, palauttaa funktio datan returnilla. Näin tekevät käyttäjän syötteen lukeva funktio `lue_kayttajalta` sekä analyysin tekevä funktio `analysoi`.
 
-Olisi periaatteessa mahdollista, että funktiot käyttäisivät avainsanaa `global` hyväksikäyttäen suoraan "pääohjelman" globaalia muuttujaa `syoteet`. Se [ei kuitenkaan ole ollenkaan järkevää](https://softwareengineering.stackexchange.com/questions/148108/why-is-global-state-so-evil), sillä jos usea funktio pääsee sorkkimaan globaalia muuttujaa, voi ohjelmassa alkaa tapahtua jotain hallitsematonta, varsinkin kun funktioiden määrä kasvaa.
+Olisi periaatteessa mahdollista, että funktiot käyttäisivät avainsanaa `global` hyväksikäyttäen suoraan "pääohjelman" globaalia muuttujaa `syotteet`. Se [ei kuitenkaan ole ollenkaan järkevää](https://softwareengineering.stackexchange.com/questions/148108/why-is-global-state-so-evil), sillä jos usea funktio pääsee sorkkimaan globaalia muuttujaa, voi ohjelmassa alkaa tapahtua jotain hallitsematonta, varsinkin kun funktioiden määrä kasvaa.
 
 Tiedon välitys funktioihin ja niistä ulos on siis järkevintä hoitaa parametrien ja paluuarvojen avulla.
 
-Jos haluaisimme tehdä edellisen esimerkin ohjelman siten, että sen "pääohjelma" eriytettäisiin omaan funktioon `main`, siirrettäisiin ohjelman käsittelmä data pääohjelmaa edustavan funktion sisäiseksi muuttujaksi:
+Jos haluaisimme tehdä edellisen esimerkin ohjelman siten, että sen "pääohjelma" eriytettäisiin omaan funktioon `main`, siirrettäisiin ohjelman käsittelemä data pääohjelmaa edustavan funktion sisäiseksi muuttujaksi:
 
 ```python
 def lue_kayttajalta(maara: int):
@@ -266,11 +266,11 @@ def tulosta(luvut: list):
 
 def analysoi(luvut: list):
     ka = sum(luvut) / len(luvut)
-    return f"lukuja yhtensä {len(luvut)} kesikarvo {ka} pienin{min(luvut)} ja suurin {max(luvut)}"
+    return f"lukuja yhteensä {len(luvut)} keskikarvo {ka} pienin{min(luvut)} ja suurin {max(luvut)}"
 
 # pääohjelmaa edustava funktio
 def main():
-    syoteet = lue_kayttajalta(5)
+    syotteet = lue_kayttajalta(5)
     tulosta(syotteet)
     analyysin_tulos = analysoi(syotteet)
 
