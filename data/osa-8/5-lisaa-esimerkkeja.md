@@ -331,7 +331,7 @@ print(kortti)
 Kortilla on rahaa 10.0 euroa
 Kortilla on rahaa 25.0 euroa
 Kortilla on rahaa 35.0 euroa
-Kortilla on rahaa 150.0 euroa
+Kortilla on rahaa 235.0 euroa
 
 </sample-output>
 
