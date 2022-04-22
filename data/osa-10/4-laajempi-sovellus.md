@@ -606,11 +606,11 @@ Sopiva pieni askel nyt voi olla se, että tarkastat ensin erikseen luokan `Puhel
 ```python
 luettelo = Puhelinluettelo()
 luettelo.lisaa_numero("Erkki", "02-123456")
-print(luettelo.tiedot("Erkki"))
-print(luettelo.tiedot("Emilia"))
+print(luettelo.hae_tiedot("Erkki"))
+print(luettelo.hae_tiedot("Emilia"))
 ```
 
-Tehtävässä ei tarkisteta, millainen tulostusasu `tiedot`-metodin palauttamalla tuloksella on, mutta varmista ettei koodi aiheuta virheitä, ja että tulos on järkevä. Kun olet 100% varma, että kaikki toimii luokan `Puhelinluettelo` osalta, voit edetä varmistamaan, että kaikki toimii edelleen entiseen tapaan käyttöliittymää käytettäessä.
+Tehtävässä ei tarkisteta, millainen tulostusasu `hae_tiedot`-metodin palauttamalla tuloksella on, mutta varmista ettei koodi aiheuta virheitä, ja että tulos on järkevä. Kun olet 100% varma, että kaikki toimii luokan `Puhelinluettelo` osalta, voit edetä varmistamaan, että kaikki toimii edelleen entiseen tapaan käyttöliittymää käytettäessä.
 
 ## Osoitteen lisääminen
 
