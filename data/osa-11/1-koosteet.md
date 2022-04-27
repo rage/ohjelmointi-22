@@ -260,7 +260,7 @@ print(parilliset)
 
 </sample-output>
 
-Jos lausekkeeksi on määritelty jotain muuta kuin pelkkä alkio, mukaan otetuille alkiolle toteutetaan tämä operaatio kuten ennenkin. Muokataan edellistä esimerkkiä niin, että uudessa listassa on kaikki alkuperäisen listan parilliset alkiot kerrottuna kymmenellä:
+Jos lausekkeeksi on määritelty jotain muuta kuin pelkkä alkio, mukaan otetuille alkioille toteutetaan tämä operaatio kuten ennenkin. Muokataan edellistä esimerkkiä niin, että uudessa listassa on kaikki alkuperäisen listan parilliset alkiot kerrottuna kymmenellä:
 
 ```python
 lista = [1, 1, 2, 3, 4, 6, 4, 5, 7, 10, 12, 3]
