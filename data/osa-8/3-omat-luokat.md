@@ -347,7 +347,7 @@ Fluent Python ja Norma kirjoitettiin 2015
 
 <programming-exercise name='Genren kirjat' tmcname='osa08-09_genren_kirjat'>
 
-Tee funktio `genren_kirjat(kirjat: list, genre: str)`, joka saa parametriksi listan `Kirja`-olioa sekä genren kertovan merkkijonon.
+Tee funktio `genren_kirjat(kirjat: list, genre: str)`, joka saa parametriksi listan `Kirja`-olioita sekä genren kertovan merkkijonon.
 
 Funktio _palauttaa_ uuden listan, jolle se laittaa parametrina olevista kirjoista ne, joilla on haluttu genre.
 

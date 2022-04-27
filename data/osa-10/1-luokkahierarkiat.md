@@ -153,7 +153,7 @@ class Kirjahylly(Kirjalaatikko):
 
  Luokassa Kirjahylly on määritelty metodi `lisaa_kirja`. Samanniminen metodi on määritelty myös yliluokassa `Kirjalaatikko`. Tällaisessa tapauksessa puhutaan metodin _uudelleenmäärittelystä_ tai ylikirjoituksesta (overwriting): aliluokan samanniminen metodi korvaa yliluokan vastaavan metodin.
 
- Esimerkissämme idea on, että kirjalaatikossa kirja asetetaan aina laatikossa päällimäiseksi, mutta kirjahyllyssä voidaan määritellä asetuspaikka. Sen sijaan metodin `listaa_kirjat` uudelleenmäärittelyä ei ole nähty tarpeelliseksi - sama kirjojen listaus toimii niin laatikossa kuin hyllyssäkin (ainakin esimerkissämme).
+ Esimerkissämme idea on, että kirjalaatikossa kirja asetetaan aina laatikossa päällimmäiseksi, mutta kirjahyllyssä voidaan määritellä asetuspaikka. Sen sijaan metodin `listaa_kirjat` uudelleenmäärittelyä ei ole nähty tarpeelliseksi - sama kirjojen listaus toimii niin laatikossa kuin hyllyssäkin (ainakin esimerkissämme).
 
  Tarkastellaan esimerkkiä luokkien käyttämisestä:
 
@@ -548,7 +548,7 @@ Tee nyt luokka `EnitenVokaaleja` eli pelin versio, missä kunkin kierroksen voit
 
 Tee nyt luokka `KiviPaperiSakset` joka mallintaa nimensä mukaisesti [kivi, paperi ja sakset](https://fi.wikipedia.org/wiki/Kivi,_paperi_ja_sakset) -peliä.
 
-Pelin sännöt ovat seuraavat:
+Pelin säännöt ovat seuraavat:
 
 - kivi voittaa sakset (kivellä voi rikkoa sakset eikä saksilla voi leikata kiveä)
 - paperi voittaa kiven (kiven voi peittää paperilla)

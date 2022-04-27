@@ -102,7 +102,7 @@ Korko lisätään vain siihen tiliin, jonka kautta metodia kutsutaan. Esimerkist
 
 ## Kapselointi
 
-Olio-ohjelmoinnin yhteydessä puhutaan usein olioiden _asiakkaista_. Asiakkaalla (client) tarkoitetaan koodin osaa, joka muodostaa olion ja käyttää sen palveluita kutsumalla metodeita. Kun olion tietosisältöä käsitellään vain olion tarjoamien metodien avulla, voidaan varmistua siitä, että olion _sisäinen eheys_ säilyy. Käytännössä tämä tarkoittaa esimerkiksi sitä, että `Pankkitili`-luokassa tarjotaan metodi, jolla tililtä nostetaan rahaa, sen sijaan, että asiakas käsittelisi suoraan attribuuttia `saldo`. Tässä metodissa voidaan sitten esimerkiksi varmistaa, ettei tililtä nosteta enempää katetta enempää rahaa.
+Olio-ohjelmoinnin yhteydessä puhutaan usein olioiden _asiakkaista_. Asiakkaalla (client) tarkoitetaan koodin osaa, joka muodostaa olion ja käyttää sen palveluita kutsumalla metodeita. Kun olion tietosisältöä käsitellään vain olion tarjoamien metodien avulla, voidaan varmistua siitä, että olion _sisäinen eheys_ säilyy. Käytännössä tämä tarkoittaa esimerkiksi sitä, että `Pankkitili`-luokassa tarjotaan metodi, jolla tililtä nostetaan rahaa, sen sijaan, että asiakas käsittelisi suoraan attribuuttia `saldo`. Tässä metodissa voidaan sitten esimerkiksi varmistaa, ettei tililtä nosteta katetta enempää rahaa.
 
 Esimerkiksi:
 
@@ -341,7 +341,7 @@ Piia
 
 </sample-output>
 
-Esimerkistä huomataan, että myös olion omiin metodeihin pitää viitata `self`-määreen avulla, kun niitä kutsutaan konstruktorista. Luokkiin voidaan kirjoitaa myös _staattisia metodeita_ eli metodeita, joita voidaan kutsua ilman, että luokasta muodostetaan oliota. Tähän palataan kuitenkin tarkemmin ensi viikolla.
+Esimerkistä huomataan, että myös olion omiin metodeihin pitää viitata `self`-määreen avulla, kun niitä kutsutaan konstruktorista. Luokkiin voidaan kirjoittaa myös _staattisia metodeita_ eli metodeja, joita voidaan kutsua ilman, että luokasta muodostetaan oliota. Tähän palataan kuitenkin tarkemmin ensi viikolla.
 
 Määrettä `self` käytetään kuitenkin vain silloin, kun viitataan _olion piirteisiin_ (eli metodeihin tai olion attribuutteihin). Olion metodeissa voidaan käyttää myös paikallisia muuttujia. Tämä on suositeltavaa, jos muuttujaan ei ole tarvetta viitata metodin ulkopuolella.
 

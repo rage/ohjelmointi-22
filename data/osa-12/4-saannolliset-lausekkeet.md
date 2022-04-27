@@ -180,7 +180,7 @@ Osuma!
 
 </sample-output>
 
-Kenoviivaa voidaan käyttää etsimään erikoismerkkejä. Merkintä `1+` tarkoitaa yhtä tai useampaa ykköstä, mutta merkintä `1\+` merkkijonoa `1+`.
+Kenoviivaa voidaan käyttää etsimään erikoismerkkejä. Merkintä `1+` tarkoittaa yhtä tai useampaa ykköstä, mutta merkintä `1\+` merkkijonoa `1+`.
 
 Esimerkiksi
 
@@ -428,7 +428,7 @@ Kolmannen pisteen saa seuraavilla toiminnoilla:
 - n eniten pistettä saanutta pelaajaa
   - jos kahden pelaajan pistemäärä on sama, ratkaisee maalimäärä
 - n eniten maaleja (_goals_) tehnyttä pelaajaa
-  - jos kahden pelaajan maalimäärä on sama, järjestysksen ratkaisee se kummalla on vähemmän otteluja (_games_)
+  - jos kahden pelaajan maalimäärä on sama, järjestyksen ratkaisee se kummalla on vähemmän otteluja (_games_)
 
 Toiminnallisuus on seuraava:
 

@@ -263,7 +263,7 @@ True
 </sample-output>
 
 Täsmennyksiä:
-- tehtävän tilan (valmis vai ei vielä valmis) voi tarkistaa funktiolla `on_valmis(self)` joka palauttaa totuusarvon
+- tehtävän tilan (valmis vai ei vielä valmis) voi tarkistaa metodilla `on_valmis(self)` joka palauttaa totuusarvon
 - tehtävä ei ole siinä vaiheessa valmis kun se luodaan
 - tehtävä merkataan valmiiksi kutsumalla metodia `merkkaa_valmiiksi(self)`
 - tehtävien id on juokseva numero, joka alkaa arvosta 1 (ensimmäisenä luotava tehtävä saa id:n 1, seuraava id:n 2 jne.)

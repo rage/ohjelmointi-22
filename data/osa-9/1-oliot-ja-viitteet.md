@@ -328,7 +328,7 @@ class Sanasto:
 
 Kun muuttujan määrittely tehdään `self`-määreen avulla, liitetään muuttuja olion attribuutiksi, eli muuttuja tulee olemaan edelleen olemassa myös metodin suorituksen päätyttyä. Tämä on aivan tarpeetonta, koska kyseisiä apumuuttujia on tarkoitus käyttää vain metodissa `pisin_sana(self)`. Apumuuttujien määrittely `self`-määreen avulla on siis varsin huono idea.
 
-Paitsi turhaa, apumuuttujien liittäminen `self`-määreella olion attribuuteiksi on myös riskialtista, varsinkin epämääräisesti nimettyjen apumuuttujien tapauksessa. Jos samaa apumuuttujaa `self.apu` käytetään monessa eri metodissa mutta täysin eri tarkoituksiin, voivat seuraukset olla arvaamattomat ja koodissa voi ilmetä hankalasti löydettäviä bugeja. 
+Paitsi turhaa, apumuuttujien liittäminen `self`-määreellä olion attribuuteiksi on myös riskialtista, varsinkin epämääräisesti nimettyjen apumuuttujien tapauksessa. Jos samaa apumuuttujaa `self.apu` käytetään monessa eri metodissa mutta täysin eri tarkoituksiin, voivat seuraukset olla arvaamattomat ja koodissa voi ilmetä hankalasti löydettäviä bugeja.
 
 Ongelma voi tulla esiin erityisesti silloin jos apumuuttujan alkuarvo annetaan jossain muualla, esimerkiksi konstruktorissa:
 
@@ -561,7 +561,7 @@ pekka = Henkilo("Pekka", 33, 176, 85)
 
 print(f"{eero.nimi} painaa {haagan_neuvola.punnitse(eero)} kg")
 print(f"{pekka.nimi} painaa {haagan_neuvola.punnitse(pekka)} kg")
-print() 
+print()
 
 haagan_neuvola.syota(eero)
 haagan_neuvola.syota(eero)

@@ -148,7 +148,7 @@ Leevi, kaverina Hulda, joka on sekarotuinen koira
 
 </sample-output>
 
-**Huom:** koska kaikki koodi tulee samaan tiedostoon, etä tarvitse tehtävässä `import`:ia ollenkaan!
+**Huom:** koska kaikki koodi tulee samaan tiedostoon, et tarvitse tehtävässä `import`:ia ollenkaan!
 
 </programming-exercise>
 
@@ -156,7 +156,7 @@ Leevi, kaverina Hulda, joka on sekarotuinen koira
 
 Äskeisissä esimerkeissä oliolla oli attribuuttina yksittäinen toisen luokan olio, esim. henkilöllä attribuuttina lemmikki ja opintosuorituksella attribuuttina kurssi.
 
-Olio-ohjelmoinnissa törmätään kutenkin usein tilanteeseen, jossa oliolla on attribuuttina _joukko_ toisen luokan oliota. Eräs tälläinen tilanne kuvaa joukkueen ja sen pelaajien välistä yhteyttä:
+Olio-ohjelmoinnissa törmätään kutenkin usein tilanteeseen, jossa oliolla on attribuuttina _joukko_ toisen luokan olioita. Eräs tälläinen tilanne kuvaa joukkueen ja sen pelaajien välistä yhteyttä:
 
 ```python
 class Pelaaja:

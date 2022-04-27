@@ -13,7 +13,7 @@ Tämän osion jälkeen
 
 </text-box>
 
-Aikaisemmin mainittiin, että yliluokassa yksityiseksi määritettyihin piirteiisin ei pääse käsiksi aliluokassa. Tarkastellaan esimerkkinä luokkaa `Muistikirja`, jossa muistiinpanojen säilyttämiseen käytettävä lista-attribuutti on piilotettu asiakkailta:
+Aikaisemmin mainittiin, että yliluokassa yksityiseksi määritettyihin piirteisiin ei pääse käsiksi aliluokassa. Tarkastellaan esimerkkinä luokkaa `Muistikirja`, jossa muistiinpanojen säilyttämiseen käytettävä lista-attribuutti on piilotettu asiakkailta:
 
 ```python
 
@@ -35,7 +35,7 @@ class Muistikirja:
 
 ```
 
-Luokan sisäisen eheyden kannalta tietorakenteena toimivan listan piilottaminen asiakkaalta on sinänsä järkevää, koska luokka tarjoaa itse sopivat operaatiot muistiinpanojen lisäämiseksi ja selaamiseksi. Ongelmalliseksi tilanne muodostuu, jos yritetään kirjoittaa `Muistikirja`-luokan perivät luokka `ProMuistikirja`, johon halutaan lisätä muistiinpanojen etsiminen ja järjestäminen. Piilotettu attribuutti ei ole käytettävissä myöskään aliluokissa; metodi `etsi_muistiinpanot` antaa kutsuttaessa virheen:
+Luokan sisäisen eheyden kannalta tietorakenteena toimivan listan piilottaminen asiakkaalta on sinänsä järkevää, koska luokka tarjoaa itse sopivat operaatiot muistiinpanojen lisäämiseksi ja selaamiseksi. Ongelmalliseksi tilanne muodostuu, jos yritetään kirjoittaa `Muistikirja`-luokan perivä luokka `ProMuistikirja`, johon halutaan lisätä muistiinpanojen etsiminen ja järjestäminen. Piilotettu attribuutti ei ole käytettävissä myöskään aliluokissa; metodi `etsi_muistiinpanot` antaa kutsuttaessa virheen:
 
 ```python
 class MuistikirjaPro(Muistikirja):
@@ -59,7 +59,7 @@ class MuistikirjaPro(Muistikirja):
 ```
 
 <sample-output>
-    
+
 AttributeError: 'MuistikirjaPro' object has no attribute '_MuistikirjaPro__muistiinpanot'
 
 </sample-output>

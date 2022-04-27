@@ -237,7 +237,7 @@ print(pituudet(listat))
 </programming-exercise>
 
 
-## Alkoiden suodatus
+## Alkioiden suodatus
 
 Edellisissä esimerkeissä uusi lista muodostettiin kaikista alkuperäisen listan alkioista. Joskus on kuitenkin näppärää, jos voitaisiin valita alkuperäiseltä listalta vain tietyt alkiot. Koosteessa tämä onnistuu yhdistämällä siihen ehto-osa. Yleinen syntaksi on seuraava:
 
@@ -260,7 +260,7 @@ print(parilliset)
 
 </sample-output>
 
-Jos lausekkeeksi on määritelty jotain muuta kuin pelkkä alkio, mukaan otetuille alkoille toteutetaan tämä operaatio kuten ennenkin. Muokataan edellistä esimerkkiä niin, että uudessa listassa on kaikki alkuperäisen listan parilliset alkiot kerrotuna kymmenellä:
+Jos lausekkeeksi on määritelty jotain muuta kuin pelkkä alkio, mukaan otetuille alkiolle toteutetaan tämä operaatio kuten ennenkin. Muokataan edellistä esimerkkiä niin, että uudessa listassa on kaikki alkuperäisen listan parilliset alkiot kerrottuna kymmenellä:
 
 ```python
 lista = [1, 1, 2, 3, 4, 6, 4, 5, 7, 10, 12, 3]

@@ -136,7 +136,7 @@ sama uusiksi:
 
 </sample-output>
 
-Eli kun `map`-funktion tuloksena olevat nimet yritetään tulostaa toiseen kertaan, ei tulostu mitään. Syynä tälle on se, läpikäynti `for`-lauseella käy iteroottorin oliot jo läpi, ja kun samaa yritetään toistamiseenn, ei ole enää mitään läpikäytävää!
+Eli kun `map`-funktion tuloksena olevat nimet yritetään tulostaa toiseen kertaan, ei tulostu mitään. Syynä tälle on se, läpikäynti `for`-lauseella käy iteraattorin oliot jo läpi, ja kun samaa yritetään toistamiseen, ei ole enää mitään läpikäytävää!
 
 Jos ohjelma haluaa tarkastella `map`-funktion tulosta useampaan kertaan, tulee tulos esimerkiksi muuttaa listaksi antamalla se parametriksi `list`-konstruktorille:
 
@@ -226,7 +226,7 @@ saldot = map(lambda t: t.hae_saldo(), tilit)
 
 <programming-exercise name='Suoritukset' tmcname='osa12-11_suoritukset'>
 
-Tehtäväpohjassa on mukana kurssisuoritusta kuvaava luokkaa `Suoritus`, jota toimii seuraavasti:
+Tehtäväpohjassa on mukana kurssisuoritusta kuvaava luokka `Suoritus`, joka toimii seuraavasti:
 
 ```python
 suoritus = Suoritus("Pekka Python", "Ohjelmoinnin perusteet", 5)
@@ -247,7 +247,7 @@ Pekka Python, arvosana kurssilta Ohjelmoinnin perusteet 5
 
 ## Suorittajat
 
-Tee funktio `suorittajien_nimet(suoritukset: list)` joka saa parametriksi listan suoritus-oliota. Funktio palauttaa listan, jolta löytyy suorittajien nimet.
+Tee funktio `suorittajien_nimet(suoritukset: list)` joka saa parametriksi listan suoritus-olioita. Funktio palauttaa listan, jolta löytyy suorittajien nimet.
 
 ```python
 s1 = Suoritus("Pekka Python", "Ohjelmoinnin perusteet", 3)
@@ -270,7 +270,7 @@ Toteuta funktio käyttäen `map`-funktiota!
 
 ## Kurssit
 
-Tee funktio `kurssien_nimet(suoritukset: list)` joka saa parametriksi listan suoritus-oliota. Funktto palauttaa listan, jolla on suorituksessa olevien kurssien nimet aakkosjärjestyksessä. Kukin kurssi esiintyy listalla vain kerran.
+Tee funktio `kurssien_nimet(suoritukset: list)` joka saa parametriksi listan suoritus-olioita. Funktio palauttaa listan, jolla on suorituksessa olevien kurssien nimet aakkosjärjestyksessä. Kukin kurssi esiintyy listalla vain kerran.
 
 ```python
 s1 = Suoritus("Pekka Python", "Ohjelmoinnin perusteet", 3)
@@ -287,7 +287,7 @@ Ohjelmoinnin perusteet
 
 </sample-output>
 
-Hyödynnä funkton toteutuksessa `map`-funktiota. Se ei tosin yksistään riitä, joten tarvitset muutakin...
+Hyödynnä funktion toteutuksessa `map`-funktiota. Se ei tosin yksistään riitä, joten tarvitset muutakin...
 
 </programming-exercise>
 
@@ -410,7 +410,7 @@ sama uudelleen
 
 </sample-output>
 
-Jos funktion `filter` tulosta on tarve käsitellä useaan kertaan, tulee se muuttuaa esimerkiksi listaksi:
+Jos funktion `filter` tulosta on tarve käsitellä useaan kertaan, tulee se muuttaa esimerkiksi listaksi:
 
 ```python
 kalat = [k1, k2, k3, k4, k5]
@@ -425,7 +425,7 @@ Tässä tehtävässä jatketaan luokan `Suoritus` käyttämistä
 
 ## Hyväksytyt suoritukset
 
-Tee funktio `hyvaksytyt(suoritukset: list)` joka saa parametriksi listan suoritus-oliota. Funktio palauttaa listan, jolta löytyy suorituksista ne, joiden arvosana on vähintään 1.
+Tee funktio `hyvaksytyt(suoritukset: list)` joka saa parametriksi listan suoritus-olioita. Funktio palauttaa listan, jolta löytyy suorituksista ne, joiden arvosana on vähintään 1.
 
 ```python
 s1 = Suoritus("Pekka Python", "Ohjelmoinnin perusteet", 3)
@@ -447,7 +447,7 @@ Toteuta funktio käyttäen `filter`-funktiota!
 
 ## Arvosanan suoritukset
 
-Tee funktio `suoritus_arvosanalla(suoritukset: list, arvosana: int)` joka saa parametriksi listan suoritus-oliota sekä kokonaisluvun. Funktio palauttaa listan, jolta löytyy suorituksista ne, joiden arvosana on sama kuin toisen parametrin arvo.
+Tee funktio `suoritus_arvosanalla(suoritukset: list, arvosana: int)` joka saa parametriksi listan suoritus-olioita sekä kokonaisluvun. Funktio palauttaa listan, jolta löytyy suorituksista ne, joiden arvosana on sama kuin toisen parametrin arvo.
 
 ```python
 s1 = Suoritus("Pekka Python", "Ohjelmoinnin perusteet", 3)
@@ -471,7 +471,7 @@ Toteuta funktio käyttäen `filter`-funktiota!
 
 ## Kurssin suorittajat
 
-Tee funktio `kurssin_suorittajat(suoritukset: list, kurssi: str)` joka saa parametriksi listan suoritus-oliota sekä kurssin nimen. Funktio palauttaa _aakkosjärjestyksessä_ niiden opiskelijoiden nimet, jotka ovat suorittaneet parametrina olevan kurssin arvosanalla joka on suurempi kuin nolla.
+Tee funktio `kurssin_suorittajat(suoritukset: list, kurssi: str)` joka saa parametriksi listan suoritus-olioita sekä kurssin nimen. Funktio palauttaa _aakkosjärjestyksessä_ niiden opiskelijoiden nimet, jotka ovat suorittaneet parametrina olevan kurssin arvosanalla joka on suurempi kuin nolla.
 
 ```python
 s1 = Suoritus("Pekka Python", "Ohjelmoinnin perusteet", 3)

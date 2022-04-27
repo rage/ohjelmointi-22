@@ -107,7 +107,7 @@ AttributeError: 'Pankkikortti' object has no attribute '__numero'
 
 </sample-output>
 
-Tietojen piilottamista asiakkaalta kutsutaan _kapseloinniksi_. Nimensä mukaisesti attribuutti siis "suljetaan kapseliin" ja asiakkalle tarjotaan sopiva rajapinta, jonka kautta tietoa voi käsitellä.
+Tietojen piilottamista asiakkaalta kutsutaan _kapseloinniksi_. Nimensä mukaisesti attribuutti siis "suljetaan kapseliin" ja asiakkaalle tarjotaan sopiva rajapinta, jonka kautta tietoa voi käsitellä.
 
 Laajennetaan pankkikorttiesimerkkiä niin, että kortilla on piilotettu attribuutti saldo ja tämän käsittelyyn tarkoitetut julkiset metodit, joiden avulla asiakas voi hallita saldoa:
 
@@ -370,7 +370,7 @@ Paula Palloilija
 
 </sample-output>
 
-Kolmantena esimerkkinä tarkastellaan luokkaa, joka mallintaa päiväkirjaa. Huomaa, että omistajalla on asetus- ja havainnointimetodit, mutta merkintöjen lisäys on toteutettu "perinteisillä" metodeilla. Tämä siksi, että asiakkalle ei ole haluttu tarjota suoraan pääsyä tietorakenteeseen, johon merkinnät tallennetaan. Kapseloinnista on tässä sekin hyöty, että sisäistä toteutusta voidaan myöhemmin muuttaa (esim. vaihtamalla lista vaikka sanakirjaksi) ilman, että asiakkaan täytyy muuttaa omaa koodiaan.
+Kolmantena esimerkkinä tarkastellaan luokkaa, joka mallintaa päiväkirjaa. Huomaa, että omistajalla on asetus- ja havainnointimetodit, mutta merkintöjen lisäys on toteutettu "perinteisillä" metodeilla. Tämä siksi, että asiakkaalle ei ole haluttu tarjota suoraan pääsyä tietorakenteeseen, johon merkinnät tallennetaan. Kapseloinnista on tässä sekin hyöty, että sisäistä toteutusta voidaan myöhemmin muuttaa (esim. vaihtamalla lista vaikka sanakirjaksi) ilman, että asiakkaan täytyy muuttaa omaa koodiaan.
 
 ```python
 class Paivakirja:

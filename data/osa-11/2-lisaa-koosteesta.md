@@ -377,7 +377,7 @@ Kerava 4h ja keittiö           hintaero 16500 euroa
 
 ## Koosteet sanakirjan kanssa
 
-Koosteet toimivat samalla tavalla myös sanakirjan kanssa: jos vaihdetaan hakasulkeet aaltosulkeiksi, syntyy koosteen seurauksena listan sijasta sanakirja. Koska sanakirjan alkio muodostuu kahdesta komponentista - arvosta ja alkiosta, tule molemmat komponentit antaa myös koostetta luodessa.
+Koosteet toimivat samalla tavalla myös sanakirjan kanssa: jos vaihdetaan hakasulkeet aaltosulkeiksi, syntyy koosteen seurauksena listan sijasta sanakirja. Koska sanakirjan alkio muodostuu kahdesta komponentista - arvosta ja avaimesta, tulee molemmat komponentit antaa myös koostetta luodessa.
 
 Lähteenä voidaan edelleen käyttää mitä tahansa sarjaa, eli esimerkiksi listaa, merkkijonoa, tuplea, sanakirjaa tai omaa iteroinnin toteuttavaa luokkaa.
 
