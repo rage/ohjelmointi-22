@@ -22,7 +22,7 @@ Jos olet aiemmin suorittanut 5 pisteen Java-versiot kursseista, voit suorittaa 1
 
 ## Tukiväylät
 
-Kurssilla järjestetään ohjausta kampuksella ja discordin välityksellä etänä.
+Kurssilla järjestetään ohjausta etänä Zoomin ja Discordin välityksellä.
 Kurssin kanaville discordiin pääset [tästä](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc).
 Kanavilla voit keskustella muiden kurssin opiskelijoiden ja ohjaajien kanssa.
 Tarkan ohjausaikataulun löydät [täältä](/tuki).
