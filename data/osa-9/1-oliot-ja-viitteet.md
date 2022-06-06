@@ -813,9 +813,9 @@ print("Maukkaita lounaita myyty", exactum.maukkaat)
 
 <sample-output>
 
-Kortilla rahaa 2.0 euroa
+Kortilla rahaa 2 euroa
 Riittikö raha: False
-Kortilla rahaa 102.0 euroa
+Kortilla rahaa 102 euroa
 Riittikö raha: True
 Kortilla rahaa 97.7 euroa
 Kassassa rahaa 1100
