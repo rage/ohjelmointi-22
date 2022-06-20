@@ -238,8 +238,11 @@ import json
 import ssl # lisää tämä kirjasto importeihin
 
 def hae_kaikki():
+    osoite = "https://studies.cs.helsinki.fi/stats-mock/api/courses"
     # ja tämä rivi funktioiden alkuun
     context = ssl._create_unverified_context()
+    # käytetään turvatonta kontekstia myöhemmin kutsussa
+    pyynto = urllib.request.urlopen(osoite, context=context)
     # muu koodi
 ```
 
