@@ -7,7 +7,9 @@ information_page: true
 
 <notice>Ohjausajat saattavat muuttua kurssin myötä.</notice>
 
-Kesällä kurssilla järjestetään **31.5. alkaen** ohjausta Zoomissa tiistaisin kello 14.00-16.00 ja Discordissa torstaisin kello 14.00-16.00.
+<notice>Ohjausta ei järjestetä viikoilla 29 ja 30 (18.-31.7.)</notice>
+
+Kesällä kurssilla järjestetään ohjausta Zoomissa tiistaisin kello 14.00-16.00 ja Discordissa torstaisin kello 14.00-16.00.
 
 #### Zoom
 
