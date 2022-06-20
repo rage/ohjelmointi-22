@@ -409,7 +409,7 @@ for kallio in reittien_maaran_mukaan(kalliot):
 
 Nummi, 1 reittiä, vaikein 8C+
 Olhava, 3 reittiä, vaikein 6B
-Nalkkilan slabi, 4 reittiä, vaikein 7A
+Nalkkilan släbi, 4 reittiä, vaikein 7A
 
 </sample-output>
 
@@ -428,7 +428,7 @@ for kallio in vaikeimman_reitin_mukaan(kalliot):
 <sample-output>
 
 Nummi, 1 reittiä, vaikein 8C+
-Nalkkilan slabi, 4 reittiä, vaikein 7A
+Nalkkilan släbi, 4 reittiä, vaikein 7A
 Olhava, 3 reittiä, vaikein 6B
 
 </sample-output>
