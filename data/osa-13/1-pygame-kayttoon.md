@@ -181,7 +181,9 @@ Tässä metodi `get_width` antaa kuvan leveyden ja vastaavasti metodi `get_heigh
 
 <text-box variant='hint' name='Pygame-tehtävät'>
 
-Tämän osan tehtävissä ei ole automaattisia testejä, vaan testi antaa pisteet automaattisesti, kun lähetät ratkaisun palvelimelle. Lähetä ratkaisu vasta sitten, kun se on valmis ja vastaa tehtävänannon vaatimuksia. Vaikka tehtävissä ei ole testejä, kurssin henkilökunta näkee lähetetyt ratkaisut. Jos lähetät palvelimelle ratkaisun, joka selkeästi ei vastaa tehtävänantoa, voit menettää pisteet tämän osan tehtävistä.
+Tämän osan tehtävissä ei ole automaattisia testejä, vaan testi antaa pisteet automaattisesti, kun lähetät ratkaisun palvelimelle. Lähetä ratkaisu vasta sitten, kun se on valmis ja vastaa tehtävänannon vaatimuksia. Vaikka tehtävissä ei ole testejä, kurssin henkilökunta näkee lähetetyt ratkaisut. Myös keskeneräisen ratkaisun lähettäminen TMC Pasteen antaa pisteet automaattisesti, joten sitä ei tule käyttää kysyessä apua tämän osan tehtäviin. Voit kurssin tukikanavilla apua kysyessä käyttää [Pastebin.com](https://pastebin.com/)ia tai jotain muuta internetin pastebin-palvelua.
+
+Jos lähetät palvelimelle ratkaisun, joka selkeästi ei vastaa tehtävänantoa, voit menettää pisteet tämän osan tehtävistä.
 
 </text-box>
 
