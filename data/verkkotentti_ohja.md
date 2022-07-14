@@ -3,7 +3,7 @@ path: "/verkkotentti-ohja"
 title: "Ohjelmoinnin jatkokurssin verkkotentti 2.7."
 information_page: true
 sidebar_priority: 2800
-hide_in_sidebar: false
+hide_in_sidebar: true
 ---
 
 <text-box variant="hint" name="Huomio">
@@ -68,7 +68,7 @@ Ohjelmoinnin perusteiden tentin [ohjeet](/verkkotentti-ohpe) ovat eri sivulla
 * Tentti-sivuille kirjaudutaan käyttäen normaaleja mooc.fi-tunnuksia.
 * Tenttikysymykset löytyvät osoitteesta: <a href="https://courses.mooc.fi/org/uh-cs/exams/af5bf758-b03c-419d-8d93-471ba4f956be">https://courses.mooc.fi/org/uh-cs/exams/af5bf758-b03c-419d-8d93-471ba4f956be</a>
 * Jos olet oikeutettu lisäaikaan, tenttikysymykset saat auki tästä: <a href="https://courses.mooc.fi/org/uh-cs/exams/f336e623-2a45-4efe-bdc6-a63285db4d0c">https://courses.mooc.fi/org/uh-cs/exams/f336e623-2a45-4efe-bdc6-a63285db4d0c</a>
-* Tenttiaika alkaa siitä hetkestä kun painat `START THE EXAM!` -painiketta.
+* Tenttiaika alkaa siitä hetkestä kun painat `Aloita tentti!` -painiketta.
 
 #### Tehtävien palauttaminen
 
@@ -79,7 +79,7 @@ Ohjelmoinnin perusteiden tentin [ohjeet](/verkkotentti-ohpe) ovat eri sivulla
 #### Tentin lopetus
 
 * Ennen lopettamista palauta kaikki tehtävät vielä kertaalleen tenttiajan sisällä.
-* Voit tarkistaa  lähettämiesi tehtävien saapumisen palvelimelle kirjautumalla sivulle [https://tmc.mooc.fi/org/hy/courses/1050](https://tmc.mooc.fi/org/hy/courses/1050)
+* Voit tarkistaa  lähettämiesi tehtävien saapumisen palvelimelle kirjautumalla sivulle [https://tmc.mooc.fi/org/hy/courses/1050](https://tmc.mooc.fi/org/hy/courses/1050). Tehtävän palautus on saapunut palvelimelle, jos näet tehtävän tehtäväpohjan nimen ja kellonajan, jolloin palautit tehtävän.
 * Voit sulkea tenttitehtävä-sivun kun olet valmis. Muita toimenpiteitä ei vaadita.
 
 #### Tentin tulokset

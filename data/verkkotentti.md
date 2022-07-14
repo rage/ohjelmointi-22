@@ -57,7 +57,7 @@ hide_in_sidebar: true
 * Tentti-sivuille kirjaudutaan käyttäen normaaleja mooc.fi-tunnuksia.
 * Tenttikysymykset löytyvät osoitteesta: <a href="https://courses.mooc.fi/org/uh-cs/exams/4898e2d8-4b4d-449c-a945-db254e28cabc">https://courses.mooc.fi/org/uh-cs/exams/4898e2d8-4b4d-449c-a945-db254e28cabc</a>
 * Jos olet oikeutettu lisäaikaan, tenttikysymykset saat auki tästä: <a href="https://courses.mooc.fi/org/uh-cs/exams/f993f60a-f2d8-40c8-9bd0-4ee1ed061bdb">https://courses.mooc.fi/org/uh-cs/exams/f993f60a-f2d8-40c8-9bd0-4ee1ed061bdb</a>
-* Tenttiaika alkaa siitä hetkestä kun painat `START THE EXAM!` -painiketta.
+* Tenttiaika alkaa siitä hetkestä kun painat `Aloita tentti!` -painiketta.
 
 #### Tehtävien palauttaminen
 
@@ -68,7 +68,7 @@ hide_in_sidebar: true
 #### Tentin lopetus
 
 * Ennen lopettamista palauta kaikki tehtävät vielä kertaalleen tenttiajan sisällä.
-* Voit tarkistaa  lähettämiesi tehtävien saapumisen palvelimelle kirjautumalla sivulle [https://tmc.mooc.fi/org/hy/courses/1041](https://tmc.mooc.fi/login?return_to=%2Forg%2Fhy%2Fcourses%2F1041)
+* Voit tarkistaa  lähettämiesi tehtävien saapumisen palvelimelle kirjautumalla sivulle [https://tmc.mooc.fi/org/hy/courses/1041](https://tmc.mooc.fi/org/hy/courses/1041). Tehtävän palautus on saapunut palvelimelle, jos näet tehtävän tehtäväpohjan nimen ja kellonajan, jolloin palautit tehtävän.
 * Voit sulkea tenttitehtävä-sivun kun olet valmis. Muita toimenpiteitä ei vaadita.
 
 #### Tentin tulokset
