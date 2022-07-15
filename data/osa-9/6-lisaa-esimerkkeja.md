@@ -159,7 +159,7 @@ class Opiskelija:
 
     @muistiinpanot.setter
     def muistiinpanot(self, muistiinpanot):
-        self.muistiinpanot = muistiinpanot
+        self.__muistiinpanot = muistiinpanot
 
     def yhteenveto(self):
         print(f"Opiskelija {self.__nimi} ({self.opiskelijanumero}):")
