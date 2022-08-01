@@ -524,15 +524,15 @@ p.pelaa()
 
 Sanapeli:
 kierros 1
-pelaaja1: lyhyt
-pelaaja2: pitkäsana
+pelaaja1: **lyhyt**
+pelaaja2: **pitkäsana**
 pelaaja 2 voitti
 kierros 2
-pelaaja1: sana
-pelaaja2: vat?
+pelaaja1: **sana**
+pelaaja2: **vat?**
 kierros 3
-pelaaja1: olen paras
-pelaaja2: minäpäs
+pelaaja1: **olen paras**
+pelaaja2: **minäpäs**
 pelaaja 1 voitti
 peli päättyi, voitot:
 pelaaja 1: 1
@@ -567,19 +567,19 @@ p.pelaa()
 
 Sanapeli:
 kierros 1
-pelaaja1: kivi
-pelaaja2: kivi
+pelaaja1: **kivi**
+pelaaja2: **kivi**
 kierros 2
-pelaaja1: kivi
-pelaaja2: paperi
+pelaaja1: **kivi**
+pelaaja2: **paperi**
 pelaaja 2 voitti
 kierros 3
-pelaaja1: sakset
-pelaaja2: paperi
+pelaaja1: **sakset**
+pelaaja2: **paperi**
 pelaaja 1 voitti
-kierros 3
-pelaaja1: paperi
-pelaaja2: dynamiitti
+kierros 4
+pelaaja1: **paperi**
+pelaaja2: **dynamiitti**
 pelaaja 1 voitti
 peli päättyi, voitot:
 pelaaja 1: 2
