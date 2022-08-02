@@ -14,32 +14,37 @@ const courseSettings = {
   courseVariants: [
     {
       tmcOrganization: "hbc",
-      tmcCourse: "python-TVT21A",
+      tmcCourse: "hbc-python-TVT22A",
       // quizzesId: "5c89b9b6-b8a6-4079-8c4f-a4bbc80b66a4",
     },
     {
       tmcOrganization: "hbc",
-      tmcCourse: "python-TVT21B",
+      tmcCourse: "hbc-python-TVT22B",
       // quizzesId: "5c89b9b6-b8a6-4079-8c4f-a4bbc80b66a4",
     },
     {
       tmcOrganization: "hbc",
-      tmcCourse: "python-TVT21C",
+      tmcCourse: "hbc-python-TVT22C",
       // quizzesId: "5c89b9b6-b8a6-4079-8c4f-a4bbc80b66a4",
     },
     {
       tmcOrganization: "hbc",
-      tmcCourse: "python-TVT21D",
+      tmcCourse: "hbc-python-TVT22D",
       // quizzesId: "5c89b9b6-b8a6-4079-8c4f-a4bbc80b66a4",
     },
     {
       tmcOrganization: "hbc",
-      tmcCourse: "python-TVT21E",
+      tmcCourse: "hbc-python-TVT22E",
       // quizzesId: "5c89b9b6-b8a6-4079-8c4f-a4bbc80b66a4",
     },
     {
       tmcOrganization: "hbc",
-      tmcCourse: "python-TVT21F",
+      tmcCourse: "hbc-python-TVT22E-Group",
+      // quizzesId: "5c89b9b6-b8a6-4079-8c4f-a4bbc80b66a4",
+    },
+    {
+      tmcOrganization: "hbc",
+      tmcCourse: "hbc-python-TVT22F",
       // quizzesId: "5c89b9b6-b8a6-4079-8c4f-a4bbc80b66a4",
     },
     {
