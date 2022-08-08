@@ -289,7 +289,7 @@ print(reitti3.nimi, reitti3.pituus, reitti3.grade)
 
 Kantti, pituus 38 metriä, grade 6A+
 Smooth operator, pituus 9 metriä, grade 7A
-Syncro 14 8B+
+Syncro 14 8C+
 
 </sample-output>
 
