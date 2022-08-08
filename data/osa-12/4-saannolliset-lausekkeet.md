@@ -94,16 +94,16 @@ Esimerkiksi
 
 <sample-output>
 
-Anna lauseke: aa|ee|ii
-Anna testijono: saapas
+Anna lauseke: **aa|ee|ii**
+Anna testijono: **saapas**
 Osuma!
-Anna testijono: teema
+Anna testijono: **teema**
 Osuma!
-Anna testijono: iilimato
+Anna testijono: **iilimato**
 Osuma!
-Anna testijono: ooppera
+Anna testijono: **ooppera**
 Ei osumaa.
-Anna testijono: uuttera
+Anna testijono: **uuttera**
 Ei osumaa.
 
 </sample-output>
@@ -117,18 +117,18 @@ Esimerkiksi:
 
 <sample-output>
 
-Anna lauseke: [C-FRSÖ]
-Anna testijono: C
+Anna lauseke: **[C-FRSÖ]**
+Anna testijono: **C**
 Osuma!
-Anna testijono: E
+Anna testijono: **E**
 Osuma!
-Anna testijono: G
+Anna testijono: **G**
 Ei osumaa.
-Anna testijono: R
+Anna testijono: **R**
 Osuma!
-Anna testijono: Ö
+Anna testijono: **Ö**
 Osuma!
-Anna testijono: T
+Anna testijono: **T**
 Ei osumaa.
 
 </sample-output>
@@ -147,18 +147,18 @@ Esimerkiksi:
 
 <sample-output>
 
-Anna lauseke: 1[234]*5
-Anna testijono: 15
+Anna lauseke: **1[234]\*5**
+Anna testijono: **15**
 Osuma!
-Anna testijono: 125
+Anna testijono: **125**
 Osuma!
-Anna testijono: 145
+Anna testijono: **145**
 Osuma!
-Anna testijono: 12342345
+Anna testijono: **12342345**
 Osuma!
-Anna testijono: 126
+Anna testijono: **126**
 Ei osumaa.
-Anna testijono: 165
+Anna testijono: **165**
 Ei osumaa.
 
 </sample-output>
@@ -170,12 +170,12 @@ Pisteellä merkitään mitä tahansa yksittäistä merkkiä. Niinpä merkintä `
 
 <sample-output>
 
-Anna lauseke: \^[123]*$
-Anna testijono: 4
+Anna lauseke: **\^[123]\*$**
+Anna testijono: **4**
 Ei osumaa.
-Anna testijono: 1221
+Anna testijono: **1221**
 Osuma!
-Anna testijono: 333333333
+Anna testijono: **333333333**
 Osuma!
 
 </sample-output>
@@ -186,12 +186,12 @@ Esimerkiksi
 
 <sample-output>
 
-Anna lauseke: ^\*
-Anna testijono: moi*
+Anna lauseke: **^\\\***
+Anna testijono: **moi\***
 Ei osumaa.
-Anna testijono: m*o*i
+Anna testijono: **m\*o\*i**
 Ei osumaa.
-Anna testijono: *moi
+Anna testijono: **\*moi**
 Osuma!
 
 </sample-output>
@@ -202,14 +202,14 @@ Esimerkiksi
 
 <sample-output>
 
-Anna lauseke: ^(jabba).*(hut)$
-Anna testijono: jabba the hut
+Anna lauseke: **^(jabba).\*(hut)$**
+Anna testijono: **jabba the hut**
 Osuma!
-Anna testijono: jabba a hut
+Anna testijono: **jabba a hut**
 Osuma!
-Anna testijono: jarmo the hut
+Anna testijono: **jarmo the hut**
 Ei osumaa.
-Anna testijono: jabba the smut
+Anna testijono: **jabba the smut**
 Ei osumaa.
 
 </sample-output>
