@@ -40,6 +40,8 @@ Syksyn 2022 luennot pidetään tiistaisin kello 10.15 - 11.45 6.9.2022 alkaen. V
 
 https://helsinki.zoom.us/j/68310348852?pwd=NWRoZDliQmN3SVdmSkZSUFZLN2tvUT09
 
+Jos Zoom pyytää salasanaa, se on <strong>ohpe</strong>.
+
 Luentotallenteet julkaistaan luennon jälkeen tällä sivulla. Toistaiseksi näkyvissä ovat lukuvuoden 2021-22 tallenteet.
 
 ## Luentotallenteet
