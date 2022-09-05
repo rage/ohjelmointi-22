@@ -36,8 +36,11 @@ Kurssi on auki vuoden 2022 loppuun asti. Tehtäviä voi tehdä omaan tahtiin.
 
 ## Luennot
 
-<strong>Huom!</strong> Kurssin luennot lukuvuoden 2021-22 osalta on pidetty. Tallenteet löytyvät alta.
-Seuraavan kerran kurssi luennoidaan syksyllä 2022.
+Syksyn 2022 luennot pidetään tiistaisin kello 10.15 - 11.45 6.9.2022 alkaen. Voit seurata luentoa Zoomissa osoitteessa
+
+https://helsinki.zoom.us/j/68310348852?pwd=NWRoZDliQmN3SVdmSkZSUFZLN2tvUT09
+
+Luentotallenteet julkaistaan luennon jälkeen tällä sivulla. Toistaiseksi näkyvissä ovat lukuvuoden 2021-22 tallenteet.
 
 ## Luentotallenteet
 
