@@ -10,20 +10,12 @@ Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 
 ### Ohjelmoinnin perusteet koepäivät 2022
 
-* Lauantai 5.3.22
-* Lauantai 14.5.22
-* Lauantai 2.7.22
-* Lauantai 6.8.22
 * Lauantai 1.10.22
 * Lauantai 29.10.22
 * Lauantai 26.11.22
 
 ### Ohjelmoinnin jatkokurssi koepäivät 2022
 
-* Lauantai 7.5.22
-* Lauantai 4.6.22
-* Lauantai 2.7.22
-* Lauantai 13.8.22
 * Lauantai 8.10.22
 * Torstai 15.12.22
 
