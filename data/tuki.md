@@ -5,7 +5,24 @@ hidden: false
 information_page: true
 ---
 
-**Kesän ohjaus on päättynyt. Syksyn ohjausaikataulu päivitetään tälle sivulle lähiaikoina.**
+### Syksyn ohjausajat
+
+Syksyllä 2022 kurssilla järjestetään ohjausta sekä Kumpulan kampuksella että Discordissa. Kampuksella ohjaus järjestetään Exactumin BK107-luokassa. Ohjaus järjestetään alla olevan aikataulun mukaisesti
+
+| Aika / Päivä | MA | TI | KE | TO | PE |
+|-----|----|----|----|----|----|
+| 10-11 | - | - | Paja | - | - |
+| 11-12 | - | - | Paja | - | - |
+| 12-13 | Paja | - | - | Discord | Paja |
+| 13-14 | Paja | - | - | Discord | Paja |
+| 14-15 | - | Paja | Paja | - | - |
+| 15-16 | - | Paja | Paja | - | - |
+| 16-17 | - | - | - | Paja | - |
+| 17-18 | - | - | - | Paja | - |
+
+Taulukossa **Paja** tarkoittaa ohjausta kampuksella, **Discord** pelkkää etäohjausaikaa. Pajaohjauksen aikana saattaa olla apua tarjolla myös Discordissa, jos ohjaajilla on vuorollaan aikaa seurata Discordia.
+
+*Aikataulu voi muuttua kurssin edetessä.*
 
 #### Discord
 
