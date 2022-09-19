@@ -66,6 +66,10 @@ const courseSettings = {
     {
       tmcOrganization: "vuolu",
       tmcCourse: "Vuolun-python-mooc-2022",
+    },
+    {
+      tmcOrganization: "uwasa",
+      tmcCourse: "python-2022",
     }
   ],
 }
