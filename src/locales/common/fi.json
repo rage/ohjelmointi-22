@@ -120,5 +120,19 @@
     "difficultyHeader": "Vaikeustaso: -",
     "difficultyHeader1": "Vaikeustaso: Helppo",
     "difficultyHeader2": "Vaikeustaso: Kohtalainen",
-    "difficultyHeader3": "Vaikeustaso: Vaikea"
+    "difficultyHeader3": "Vaikeustaso: Vaikea",
+    "honorCodeTitle": "Mooc.fi-kunniakoodi",
+    "honorCode1": "Mooc.fi-alustan kurssit ovat auki koko maailmalle. Kurssien parissa työskentelevät ovat nähneet paljon vaivaa sen eteen, että oppijat voivat kehittää taitojaan ja oppia uutta yhdessä lukemattomien muiden kanssa. Toiminta perustuu ajatukselle, että oppijat ovat motivoituneita opiskelemaan kurssisisällöt rehellisesti ja hyvää opintokäytäntöä kunnioittaen.",
+    "honorCode2": "Kaikki kursseille osallistuvat ovat osa Mooc.fi-alustan yhteisöä ja sitoutuvat noudattamaan kunniakoodia:",
+    "honorCode3": "Teen kaikki arvioitavat kurssisuoritukset (tehtävät ja kokeet) itse. En käytä muiden laatimia vastauksia, enkä anna kenenkään lähettää vastauksiaan nimelläni.",
+    "honorCode4": "Jos hyödynnän vastauksissani muiden ideoita tai ajatuksia, osoitan sen aina viittaamalla alkuperäiseen lähteeseen. En siis esitä muiden ajatuksia ominani.",
+    "honorCode5": "En tee tehtäviä yhteistyössä muiden kanssa, ellei sitä ole erikseen sallittu. En siis vertaile vastauksia, tee ryhmätyötä tai jaa vastauksiani muille.",
+    "honorCode6": "En tee mitään, mikä epärehellisin keinoin parantaisi tuloksiani tai vaikuttaisi positiivisesti tai negatiivisesti muiden tuloksiin.",
+    "honorCode7": "Olen kohtelias ja kunnioitan muita aina viestiessäni muiden osallistujien tai henkilökunnan kanssa.",
+    "honorCode8": "Ilmoitan kurssin vetäjille, jos epäilen jonkun rikkovan kunniakoodia ja syyllistyvän vilppiin.",
+    "honorCode9": "Kunniakoodin rikkomuksia käsitellään ",
+    "honorCode10OutboundLinkText": "Helsingin yliopiston vilppi- ja plagiointilinjausten",
+    "honorCode10OutboundLink": "https://studies.helsinki.fi/ohjeet/artikkeli/mita-ovat-vilppi-ja-plagiointi",
+    "honorCode11": " mukaisesti. Lisäksi kunniakoodia rikkoneen edistyminen Mooc.fi-alustan kurssimateriaalissa voidaan nollata, aiemmin myönnettyjen sertifikaattien lataaminen alustalta estää ja käyttäjätunnus jäädyttää.",
+    "honorCodeAgree": "Sitoudun noudattamaan kunniakoodia."
 }
