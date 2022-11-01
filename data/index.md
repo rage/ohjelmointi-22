@@ -38,7 +38,7 @@ Kurssi on auki vuoden 2022 loppuun asti. Tehtäviä voi tehdä omaan tahtiin.
 
 Syksyn 2022 luennot pidetään tiistaisin kello 10.15 - 11.45 6.9.2022 alkaen. Voit seurata luentoa Zoomissa osoitteessa
 
-https://helsinki.zoom.us/j/68310348852?pwd=NWRoZDliQmN3SVdmSkZSUFZLN2tvUT09
+https://helsinki.zoom.us/j/63168097881?pwd=d0Z4THlOOVRhcTVQR1RNNkhxMlh2QT09
 
 Jos Zoom pyytää salasanaa, se on <strong>ohpe</strong>.
 
