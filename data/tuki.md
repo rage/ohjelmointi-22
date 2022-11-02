@@ -13,8 +13,8 @@ Syksyllä 2022 kurssilla järjestetään ohjausta sekä Kumpulan kampuksella ett
 
 | Aika / Päivä | MA | TI | KE | TO | PE |
 |-----|----|----|----|----|----|
-| 10-11 | - | - | Paja | - | - |
-| 11-12 | - | - | Paja | - | - |
+| 10-11 | Discord | - | Paja | - | - |
+| 11-12 | Discord | - | Paja | - | - |
 | 12-13 | Paja | - | - | Discord | Paja |
 | 13-14 | Paja | - | - | Discord | Paja |
 | 14-15 | - | Paja | Paja | - | - |
