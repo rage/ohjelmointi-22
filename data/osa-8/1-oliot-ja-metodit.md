@@ -16,6 +16,8 @@ Tämän osion jälkeen
 
 Tämä on Ohjelmoinnin jatkokurssin ensimmäinen osa, ja kurssilla käytetään VS Codea samaan tapaan kuin Ohjelmoinnin perusteissa. Jos et ole käyttänyt ennen VS Codea, löydät [tästä](https://www.mooc.fi/fi/installation/vscode) ohjeet ympäristön asentamiseen.
 
+Jatkokurssi ja peruskurssi ovat TMC:ssä yhtenä kurssina. Jos lopetit juuri peruskurssin tekemisen, jatkokurssin tehtävät löytyvät samasta kurssista. Tämän jatkokurssin ensimmäisen osan numero on **Osa 8**. Mikäli et ole tehnyt tähän jatkokurssin liittyvää peruskurssia, valitse TMC-pluginissa organisaatioksi **MOOC** ja kurssiksi **Ohjelmoinnin MOOC 2022** ja aloita kurssin tekeminen osasta 8.
+
 Kuten kurssin ensimmäisen puolikkaan aikana huomattiin, on usein hyödyllistä yhdistää samaan asiaan liittyvät tiedot yhdeksi kokonaisuudeksi. Esimerkiksi kirjaa on kätevä mallintaa vaikkapa tuplen tai sanakirjan avulla, kun kaikki kirjaan liittyvät tiedot voidaan tallentaa samaan rakenteeseen.
 
 Tuplea käyttämällä esimerkki voisi näyttää tältä:
