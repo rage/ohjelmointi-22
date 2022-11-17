@@ -8,7 +8,7 @@ sidebar_priority: 4000
 
 Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 
-<strong>HUOM! Alla olevat päivät ovat viimeiset mahdollisuudet suorittaa kurssin 2022-versio. Tehtäväsuoritukset eivät ole sellaisenaan voimassa vuoden 2023 alussa julkaistavalla kurssilla, vaan tehtävät tulee tehdä uudestaan.</strong>
+<strong>HUOM! Alla olevat päivät ovat viimeiset mahdollisuudet suorittaa tämä kurssin 2022-versio. Tehtäväsuoritukset eivät ole sellaisenaan voimassa vuoden 2023 alussa julkaistavalla uudella kurssilla, vaan sen suorittaakseen tulee tehdä uudet tehtävät.</strong>
 
 ### Ohjelmoinnin perusteet koepäivät 2022
 
