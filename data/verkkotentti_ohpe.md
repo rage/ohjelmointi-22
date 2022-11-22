@@ -55,7 +55,7 @@ hide_in_sidebar: false
 
 * Tenttikysymykset ilmestyvät courses.mooc.fi sivulle tenttipäivänä klo 10:00.
 * Tentti-sivuille kirjaudutaan käyttäen normaaleja mooc.fi-tunnuksia.
-* Tenttikysymykset löytyvät osoitteesta: <a href="https://courses.mooc.fi/org/uh-cs/exams/f7d76b9d-78e5-4c6c-a27c-11c25e589ae7">https://courses.mooc.fi/org/uh-cs/exams/f7d76b9d-78e5-4c6c-a27c-11c25e589ae7</a>
+* Tenttikysymykset löytyvät osoitteesta: <a href="https://courses.mooc.fi/org/uh-cs/exams/995a54a2-d8fb-4b82-b57f-389dad5b7999">https://courses.mooc.fi/org/uh-cs/exams/995a54a2-d8fb-4b82-b57f-389dad5b7999</a>
 * Jos olet oikeutettu lisäaikaan, tenttikysymykset saat auki tästä: <a href="https://courses.mooc.fi/org/uh-cs/exams/c4dd6ade-3f9f-4058-bb23-e51207a26d35">https://courses.mooc.fi/org/uh-cs/exams/c4dd6ade-3f9f-4058-bb23-e51207a26d35</a>
 * Tenttiaika alkaa siitä hetkestä kun painat `Aloita tentti!` -painiketta.
 
