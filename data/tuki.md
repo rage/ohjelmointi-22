@@ -19,8 +19,8 @@ Syksyllä 2022 kurssilla järjestetään ohjausta sekä Kumpulan kampuksella ett
 | 13-14 | Paja | - | - | Discord | Paja |
 | 14-15 | - | Paja | Paja | - | - |
 | 15-16 | - | Paja | Paja | - | - |
-| 16-17 | - | - | - | Paja | - |
-| 17-18 | - | - | - | Paja | - |
+| 16-17 | - | Paja | - | - | - |
+| 17-18 | - | Paja | - | - | - |
 
 Taulukossa **Paja** tarkoittaa ohjausta kampuksella, **Discord** pelkkää etäohjausaikaa. Pajaohjauksen aikana saattaa olla apua tarjolla myös Discordissa, jos ohjaajilla on vuorollaan aikaa seurata Discordia.
 
