@@ -36,17 +36,11 @@ Kurssi on auki vuoden 2022 loppuun asti. Tehtäviä voi tehdä omaan tahtiin.
 
 ## Luennot
 
-Syksyn 2022 luennot pidetään tiistaisin kello 10.15 - 11.45 6.9.2022 alkaen. Voit seurata luentoa Zoomissa osoitteessa
-
-https://helsinki.zoom.us/j/63168097881?pwd=d0Z4THlOOVRhcTVQR1RNNkhxMlh2QT09
-
-Jos Zoom pyytää salasanaa, se on <strong>ohja</strong>.
-
-Luentotallenteet julkaistaan luennon jälkeen tällä sivulla. Toistaiseksi näkyvissä ovat lukuvuoden 2021-22 tallenteet.
+Luentotallenteet alempaa tältä sivulta. Kurssilla ei järjestetä enempää luentoja ennen syksyä 2023.
 
 ## Luentotallenteet
 
-Kurssin luentotallenteet päivitetään vuoden 2021 versioihin tiistaisin 7.9.2021 alkaen. Loput tallenteet ovat vuoden 2020 kurssilta. Asiasisältö on tätä kurssia vastaava, mutta tallenteilta mahdollisesti löytyvät huomautukset esimerkiksi tenttipäivämääriin tms. liittyen _eivät välttämättä pidä paikkaansa_!
+Kurssin luentotallenteet ovat suurimmaksi osaksi syksyltä 2022. Loput tallenteet ovat vuoden 2021 kurssilta. Asiasisältö on tätä kurssia vastaava, mutta vanhemmilta tallenteilta mahdollisesti löytyvät huomautukset esimerkiksi tenttipäivämääriin tms. liittyen _eivät välttämättä pidä paikkaansa_!
 
 <table>
   <thead>
@@ -103,15 +97,15 @@ Kurssin luentotallenteet päivitetään vuoden 2021 versioihin tiistaisin 7.9.20
     </tr>
     <tr>
       <td>Osa 12</td>
-      <td><a href="https://youtu.be/sfhFTHy-ANU">Luentotallenne (2021)</a></td>
+      <td><a href="https://youtu.be/pFuSRlRioyc">Luentotallenne (2022)</a></td>
     </tr>
     <tr>
       <td>Osa 13</td>
-      <td>Ei tallennetta</td>
+      <td>Ei luentoa</td>
     </tr>
     <tr>
       <td>Osa 14</td>
-      <td>Ei tallennetta</td>
+      <td>Ei luentoa</td>
     </tr>
   </tbody>
 </table>
