@@ -36,7 +36,7 @@ Kurssi on auki vuoden 2022 loppuun asti. Tehtäviä voi tehdä omaan tahtiin.
 
 ## Luennot
 
-Luentotallenteet alempaa tältä sivulta. Kurssilla ei järjestetä enempää luentoja ennen syksyä 2023.
+Luentotallenteet löydät alempaa tältä sivulta. Kurssilla ei järjestetä enempää luentoja ennen syksyä 2023.
 
 ## Luentotallenteet
 
