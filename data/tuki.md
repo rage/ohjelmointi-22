@@ -9,7 +9,7 @@ information_page: true
 
 Syksyllä 2022 kurssilla järjestetään ohjausta sekä Kumpulan kampuksella että Discordissa. Kampuksella ohjaus järjestetään Exactumin BK107-luokassa. Ohjaus järjestetään alla olevan aikataulun mukaisesti
 
-<strong>Huom!</strong> Ohjaukset alkavat torstaina 8.9.
+<strong>Huom!</strong> Ohjausta järjestetään 16.12. saakka.
 
 | Aika / Päivä | MA | TI | KE | TO | PE |
 |-----|----|----|----|----|----|
