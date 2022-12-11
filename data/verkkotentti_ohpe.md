@@ -3,7 +3,7 @@ path: "/verkkotentti-ohpe"
 title: "Ohjelmoinnin perusteiden verkkotentti 26.11."
 information_page: true
 sidebar_priority: 2900
-hide_in_sidebar: false
+hide_in_sidebar: true
 ---
 
 <!--# Ohjelmoinnin perusteet-->
