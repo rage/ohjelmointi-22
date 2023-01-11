@@ -3,7 +3,7 @@ path: "/verkkotentti-ohja"
 title: "Ohjelmoinnin jatkokurssin verkkotentti 15.12."
 information_page: true
 sidebar_priority: 2800
-hide_in_sidebar: false
+hide_in_sidebar: true
 ---
 
 <!--# Ohjelmoinnin jatkokurssi-->
