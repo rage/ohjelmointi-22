@@ -70,6 +70,18 @@ const courseSettings = {
     {
       tmcOrganization: "uwasa",
       tmcCourse: "python-2022",
+    },
+    {
+      tmcOrganization: "laurea",
+      tmcCourse: "python-laurea-english-2023",
+    },
+    {
+      tmcOrganization: "laurea",
+      tmcCourse: "python-2023",
+    },
+    {
+      tmcOrganization: "laurea",
+      tmcCourse: "python-2022-tikkurila",
     }
   ],
 }
