@@ -82,6 +82,10 @@ const courseSettings = {
     {
       tmcOrganization: "laurea",
       tmcCourse: "python-2022-tikkurila",
+    },
+    {
+      tmcOrganization: "seamk",
+      tmcCourse: "Ohjelmoinnin-perusteet-1",
     }
   ],
 }
