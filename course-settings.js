@@ -82,6 +82,10 @@ const courseSettings = {
     {
       tmcOrganization: "seamk",
       tmcCourse: "Ohjelmoinnin-perusteet-1",
+    },
+    {
+      tmcOrganization: "tuusula",
+      tmcCourse: "TVT3",
     }
   ],
 }
