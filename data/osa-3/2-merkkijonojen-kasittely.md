@@ -677,7 +677,7 @@ Merkkijonon sisältä merkkijonoa etsivä `find` on siis _metodi_. Metodit ovat 
 
 <in-browser-programming-exercise name="Ensimmäisen osajonon haku" tmcname="osa03-13c_osajonon_haku">
 
-Tee ohjelma, joka kysyy käyttäjältä merkkijonoa ja yksittäistä merkkiä. Ohjelma tulostaa merkkijonosta löytyvän ensimmäisen kolmen merkin pituisen osajonon, jonka alkukirjain on käyttäjän syöttämä merkki. Voit olettaa, että merkkijono on vähintään kolmen merkin pituinen.
+Tee ohjelma, joka kysyy käyttäjältä merkkijonoa ja yksittäistä merkkiä. Ohjelma tulostaa merkkijonosta löytyvän ensimmäisen kolmen merkin pituisen osajonon, jonka alkukirjain on käyttäjän syöttämä merkki. Ohjelman tulostaman osajonon tulee olla tasan kolmen merkin pituinen. Jos käyttäjän syöttämästä merkistä alkava osajono ei ole kolmen merkin pituinen, ohjelma päättyy tulostamatta mitään. Voit olettaa, että merkkijono on vähintään kolmen merkin pituinen.
 
 <sample-output>
 
