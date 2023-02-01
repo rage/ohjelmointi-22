@@ -301,7 +301,7 @@ Funktio toimii seuraavasti:
 
 ```python
 r1 = Kiipeilyreitti("Kantti", 38, "6A+")
-r2 = Kiipeilyreitti("Smooth operator", 11, "7A")
+r2 = Kiipeilyreitti("Smooth operator", 9, "7A")
 r3 = Kiipeilyreitti("Syncro", 14, "8C+")
 r4 = Kiipeilyreitti("Pieniä askelia", 12, "6A+")
 
