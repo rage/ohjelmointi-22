@@ -7,6 +7,16 @@ banner: true
 sidebar_priority: 5000
 ---
 
+<text-box variant="hint" name="Huomio">
+
+<notice>Huomaa, että tämä on vanha kurssisivu.</notice>
+
+</br>
+
+<b>Vuoden 2023 Ohjelmoinnin MOOCin kurssimateriaalin löydät halutessasi täältä: [https://ohjelmointi-23.mooc.fi/](https://ohjelmointi-23.mooc.fi/)</b>
+
+</text-box>
+
 Nämä ovat Ohjelmoinnin perusteiden (TKT10002, 5 op) ja Ohjelmoinnin jatkokurssin (TKT10003, 5 op) kurssisivut.
 
 Kurssit suoritetaan tekemällä tehtäviä ja molempien kurssien päätteeksi on pakollinen tentti.
